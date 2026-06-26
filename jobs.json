@@ -1,6 +1,684 @@
 [
-  {"company": "Clay", "role": "GTM Engineer", "location": "New York / Remote", "type": "Full-time", "posted": "2026-06-24", "url": "https://landed.b100x.ai", "skills": ["Clay", "APIs", "Automation"]},
-  {"company": "Vapi", "role": "GTM Engineer", "location": "Remote", "type": "Full-time", "posted": "2026-06-23", "url": "https://landed.b100x.ai", "skills": ["Outbound", "Python", "LLMs"]},
-  {"company": "Browserbase", "role": "Founding GTM Engineer", "location": "San Francisco", "type": "Full-time", "posted": "2026-06-21", "url": "https://landed.b100x.ai", "skills": ["Automation", "SQL", "Enrichment"]},
-  {"company": "Default", "role": "GTM Engineer", "location": "Remote (US)", "type": "Full-time", "posted": "2026-06-20", "url": "https://landed.b100x.ai", "skills": ["HubSpot", "APIs", "Workflows"]}
+  {
+    "company": "Granola",
+    "role": "GTM Engineer",
+    "location": "London, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-17",
+    "url": "https://jobs.ashbyhq.com/granola/3e0054ca-2450-4487-b05d-5af2d01347fc/application",
+    "skills": []
+  },
+  {
+    "company": "Peek",
+    "role": "GTM Engineer",
+    "location": "Mexico City, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-10",
+    "url": "https://jobs.ashbyhq.com/peek/600e8961-ed9b-465d-a255-823ef9882025/application",
+    "skills": [
+      "AI",
+      "Claude",
+      "OpenAI",
+      "Gemini"
+    ]
+  },
+  {
+    "company": "Built Technologies",
+    "role": "GTM Engineer",
+    "location": "Remote - USA, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-08",
+    "url": "https://job-boards.greenhouse.io/getbuilt/jobs/4703993005",
+    "skills": [
+      "HubSpot",
+      "APIs",
+      "AI-driven workflows"
+    ]
+  },
+  {
+    "company": "Greenhouse Software",
+    "role": "GTM Engineer",
+    "location": "British Columbia",
+    "type": "Full-time",
+    "posted": "2026-06-08",
+    "url": "https://job-boards.greenhouse.io/greenhouse/jobs/7985838?gh_jid=7985838",
+    "skills": [
+      "AI",
+      "workflow automation",
+      "software development",
+      "internal applications",
+      "data analysis",
+      "collaboration"
+    ]
+  },
+  {
+    "company": "Homebase",
+    "role": "Fullstack Growth Engineer II (Hybrid)",
+    "location": "Toronto, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-05",
+    "url": "https://jobs.ashbyhq.com/homebase/ccea05b4-b281-4c95-87f5-090bbfc1ba2d/application",
+    "skills": [
+      "Ruby on Rails",
+      "React",
+      "TypeScript",
+      "APIs",
+      "data models",
+      "experimentation"
+    ]
+  },
+  {
+    "company": "Webflow",
+    "role": "Senior GTM Engineer, Marketing Operations",
+    "location": "U.S. Remote, Remote",
+    "type": "Senior",
+    "posted": "2026-06-04",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/7980379",
+    "skills": [
+      "intelligence",
+      "automation",
+      "data infrastructure",
+      "marketing",
+      "sales",
+      "partner teams"
+    ]
+  },
+  {
+    "company": "Cloudflare",
+    "role": "GTM Engineer",
+    "location": "Hybrid",
+    "type": "Full-time",
+    "posted": "2026-06-03",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7963860?gh_jid=7963860",
+    "skills": []
+  },
+  {
+    "company": "Axiad",
+    "role": "GTM Engineer",
+    "location": "San Jose, United States",
+    "type": "Full-time",
+    "posted": "2026-06-02",
+    "url": "https://job-boards.greenhouse.io/axiad/jobs/6012009004",
+    "skills": []
+  },
+  {
+    "company": "ClassDojo",
+    "role": "Senior Growth Engineer",
+    "location": "San Francisco, Remote",
+    "type": "Senior",
+    "posted": "2026-06-02",
+    "url": "https://jobs.ashbyhq.com/ClassDojo/28198970-0046-4d1e-8d50-1941ba75265c/application",
+    "skills": []
+  },
+  {
+    "company": "Injective Labs",
+    "role": "Growth Engineer / Integration Engineer",
+    "location": "Remote, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-02",
+    "url": "https://jobs.ashbyhq.com/injective-labs/c0c8d39b-c750-4e65-a495-60580e5a7518/application",
+    "skills": [
+      "integration engineering",
+      "blockchain",
+      "technical communication",
+      "project management"
+    ]
+  },
+  {
+    "company": "ContactMonkey",
+    "role": "GTM Engineer, Revenue Operations",
+    "location": "Toronto",
+    "type": "Full-time",
+    "posted": "2026-06-02",
+    "url": "https://job-boards.greenhouse.io/contactmonkey/jobs/4686097006",
+    "skills": [
+      "Salesforce",
+      "HubSpot",
+      "AWS AppFlow",
+      "Athena",
+      "QuickSight",
+      "AI"
+    ]
+  },
+  {
+    "company": "Leapsome",
+    "role": "GTM Engineer (d/f/m)",
+    "location": "Berlin",
+    "type": "Full-time",
+    "posted": "2026-06-02",
+    "url": "https://jobs.ashbyhq.com/Leapsome/1cae3466-d9d0-469b-aa51-7c1ee20ff82f/application",
+    "skills": []
+  },
+  {
+    "company": "Hedra",
+    "role": "Staff Growth Engineer",
+    "location": "San Francisco",
+    "type": "Senior",
+    "posted": "2026-05-21",
+    "url": "https://jobs.ashbyhq.com/hedra/a3ab741d-04ff-4238-8191-4e44d74ccfa4/application",
+    "skills": [
+      "web apps",
+      "monetization",
+      "pricing tiers",
+      "usage metering",
+      "checkout",
+      "subscriptions"
+    ]
+  },
+  {
+    "company": "Juniper Square",
+    "role": "GTM Engineer",
+    "location": "Americas (USA or Canada), Remote",
+    "type": "Full-time",
+    "posted": "2026-05-21",
+    "url": "https://jobs.ashbyhq.com/junipersquare/5dff3211-a5c9-47c8-b98c-a3d4719e1c88/application",
+    "skills": []
+  },
+  {
+    "company": "Justworks",
+    "role": "GTM Engineer",
+    "location": "New York, New York",
+    "type": "Full-time",
+    "posted": "2026-05-20",
+    "url": "https://boards.greenhouse.io/justworks/jobs/7920941?gh_jid=7920941",
+    "skills": [
+      "GTM infrastructure",
+      "LLMs",
+      "system architecture"
+    ]
+  },
+  {
+    "company": "Datasnipper",
+    "role": "GTM Engineer",
+    "location": "Amsterdam",
+    "type": "Full-time",
+    "posted": "2026-05-19",
+    "url": "https://jobs.ashbyhq.com/datasnipper.com/5820263e-a066-4217-a0b2-6ce8eaad663d/application",
+    "skills": []
+  },
+  {
+    "company": "Morning Brew",
+    "role": "GTM Engineer",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "posted": "2026-05-19",
+    "url": "https://jobs.lever.co/morningbrew/674cb200-dbf8-4da8-a9e9-78807019d69e/apply",
+    "skills": []
+  },
+  {
+    "company": "Anrok",
+    "role": "GTM Engineer",
+    "location": "San Francisco, Remote",
+    "type": "Full-time",
+    "posted": "2026-05-02",
+    "url": "https://jobs.ashbyhq.com/anrok/8d425918-4473-4528-a6b1-88abfcd3f951/application",
+    "skills": [
+      "GCP",
+      "automation workflows",
+      "Claude",
+      "software engineering"
+    ]
+  },
+  {
+    "company": "Mutiny",
+    "role": "GTM Engineer",
+    "location": "In person in New York City",
+    "type": "Full-time",
+    "posted": "2026-04-28",
+    "url": "https://jobs.ashbyhq.com/Mutiny/69916bd4-f70b-404a-abc7-9a270fdedfaa/application",
+    "skills": []
+  },
+  {
+    "company": "Baseten",
+    "role": "GTM Engineer",
+    "location": "San Francisco, Remote",
+    "type": "Full-time",
+    "posted": "2026-04-22",
+    "url": "https://jobs.ashbyhq.com/baseten/b621b620-85eb-4f73-8d77-e4ebd458b02d/application",
+    "skills": [
+      "AI-powered workflows",
+      "CRM enrichment",
+      "data quality",
+      "enrichment workflows",
+      "data provider orchestration"
+    ]
+  },
+  {
+    "company": "Ironclad",
+    "role": "GTM Engineer",
+    "location": "San Francisco, Remote",
+    "type": "Full-time",
+    "posted": "2026-04-17",
+    "url": "https://jobs.ashbyhq.com/ironcladhq/67169aa3-0737-453f-8d17-5f3e203aa88a/application",
+    "skills": [
+      "AI",
+      "marketing workflows",
+      "automation"
+    ]
+  },
+  {
+    "company": "Apollo.io",
+    "role": "Go-To-Market Engineer II, Mid-Market",
+    "location": "Remote, United States, Remote",
+    "type": "Full-time",
+    "posted": "2026-04-16",
+    "url": "https://job-boards.greenhouse.io/apolloio/jobs/5918855004",
+    "skills": [
+      "AI-native systems",
+      "C-suite engagement"
+    ]
+  },
+  {
+    "company": "Parloa",
+    "role": "GTM Engineer",
+    "location": "Remotely in the USA, Remote",
+    "type": "Full-time",
+    "posted": "2026-04-16",
+    "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4843556101",
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "Python",
+      "React",
+      "NoSQL",
+      "AI tooling"
+    ]
+  },
+  {
+    "company": "HackerRank",
+    "role": "GTM Engineer - Demand Generation",
+    "location": "Hybrid in Santa Clara, CA",
+    "type": "Full-time",
+    "posted": "2026-04-01",
+    "url": "https://job-boards.greenhouse.io/hackerrank/jobs/7769363",
+    "skills": [
+      "demand generation",
+      "campaign management",
+      "analytics",
+      "ABM",
+      "paid social",
+      "email marketing"
+    ]
+  },
+  {
+    "company": "Aven",
+    "role": "GTM Engineer, Sales",
+    "location": "Campbell, CA",
+    "type": "Full-time",
+    "posted": "2026-03-25",
+    "url": "https://jobs.ashbyhq.com/Aven/faf690a3-bcbb-4bfa-8067-8790eb274dd7/application",
+    "skills": [
+      "Technical Engineering",
+      "Automation",
+      "API Management",
+      "Data Pipelines",
+      "Operational Tooling"
+    ]
+  },
+  {
+    "company": "Bounce",
+    "role": "Growth Engineer",
+    "location": "Portugal, Remote",
+    "type": "Full-time",
+    "posted": "2026-03-16",
+    "url": "https://jobs.ashbyhq.com/Bounce/1357edbb-1911-4631-ad9a-eb51cd8edede/application",
+    "skills": []
+  },
+  {
+    "company": "Hightouch",
+    "role": "Go-to-Market Engineer",
+    "location": "Remote, United States, Remote",
+    "type": "Full-time",
+    "posted": "2026-03-10",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5823552004",
+    "skills": []
+  },
+  {
+    "company": "Hiya",
+    "role": "Sr. GTM Engineer, Marketing",
+    "location": "Seattle, US, Remote",
+    "type": "Senior",
+    "posted": "2026-03-06",
+    "url": "https://jobs.ashbyhq.com/hiya/15ce9d96-15f4-4d5a-aae9-46575cb0703d/application",
+    "skills": []
+  },
+  {
+    "company": "Forma.ai",
+    "role": "GTM Engineer",
+    "location": "Toronto, Canada",
+    "type": "Full-time",
+    "posted": "2026-02-19",
+    "url": "https://job-boards.greenhouse.io/formaaiinc/jobs/4663815005",
+    "skills": []
+  },
+  {
+    "company": "Cresta",
+    "role": "GTM Engineer",
+    "location": "United States (Remote), Remote",
+    "type": "Full-time",
+    "posted": "2026-02-17",
+    "url": "https://job-boards.greenhouse.io/cresta/jobs/5123589008",
+    "skills": []
+  },
+  {
+    "company": "Nooks",
+    "role": "GTM Engineer (Remote)",
+    "location": "United States (Any Time Zone), Remote",
+    "type": "Full-time",
+    "posted": "2026-02-16",
+    "url": "https://jobs.ashbyhq.com/nooks/b14207cc-3d7b-4e79-9ad6-1a035c16d579/application",
+    "skills": [
+      "sales",
+      "technical fluency",
+      "pipeline generation",
+      "SDR workflows",
+      "product optimization",
+      "revenue outcomes"
+    ]
+  },
+  {
+    "company": "Buildkite",
+    "role": "Staff GTM Engineer",
+    "location": "USA - Pacific Time",
+    "type": "Senior",
+    "posted": "2026-02-16",
+    "url": "https://job-boards.greenhouse.io/buildkite/jobs/5121800008",
+    "skills": []
+  },
+  {
+    "company": "Nooks",
+    "role": "GTM Engineer (Hybrid)",
+    "location": "San Francisco, Remote",
+    "type": "Full-time",
+    "posted": "2026-02-15",
+    "url": "https://jobs.ashbyhq.com/nooks/23847a80-833c-4113-8587-583ca96d3738/application",
+    "skills": [
+      "sales",
+      "technical fluency",
+      "pipeline generation",
+      "SDR workflows",
+      "product optimization",
+      "revenue outcomes"
+    ]
+  },
+  {
+    "company": "Apollo.io",
+    "role": "Go-To-Market Engineer I, SMB",
+    "location": "Remote, United States, Remote",
+    "type": "Full-time",
+    "posted": "2026-01-22",
+    "url": "https://job-boards.greenhouse.io/apolloio/jobs/5778017004",
+    "skills": [
+      "AI",
+      "campaign strategy",
+      "automation",
+      "customer success"
+    ]
+  },
+  {
+    "company": "Exa",
+    "role": "Growth Engineer",
+    "location": "San Francisco, California",
+    "type": "Full-time",
+    "posted": "2025-10-03",
+    "url": "https://jobs.ashbyhq.com/exa/5cb04a48-ebd3-400a-9198-a4e6c9b12a75/application",
+    "skills": []
+  },
+  {
+    "company": "Papaya Global",
+    "role": "AI GTM Engineer",
+    "location": "\u2014",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://www.comeet.com/jobs/papayaglobal/16.005/ai-gtm-engineer/7F.A6A?coref=",
+    "skills": []
+  },
+  {
+    "company": "Solve Intelligence",
+    "role": "Growth Engineer",
+    "location": "GB",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://www.workatastartup.comhttps://www.ycombinator.com/companies/solve-intelligence/jobs/318ShlU-growth-engineer",
+    "skills": []
+  },
+  {
+    "company": "Nextdoor",
+    "role": "GTM Engineer",
+    "location": "\u2014",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://about.nextdoor.com/careers-list/?gh_jid=7939631&utm_source=Otta",
+    "skills": []
+  },
+  {
+    "company": "Lattice",
+    "role": "GTM Engineer",
+    "location": "\u2014",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://lattice.com/job?gh_jid=8570083002&utm_source=Otta",
+    "skills": []
+  },
+  {
+    "company": "Mercura",
+    "role": "Founding GTM Engineer",
+    "location": "DE",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://www.workatastartup.comhttps://www.ycombinator.com/companies/mercura/jobs/xrijGtx-founding-gtm-engineer",
+    "skills": []
+  },
+  {
+    "company": "Retell AI",
+    "role": "GTM Engineer - Growth Experiments",
+    "location": "Remote",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://www.workatastartup.comhttps://www.ycombinator.com/companies/retell-ai/jobs/RAzrAqI-gtm-engineer-growth-experiments",
+    "skills": [
+      "Python",
+      "SQL",
+      "JavaScript",
+      "cold calling",
+      "lead generation",
+      "marketing experiments"
+    ]
+  },
+  {
+    "company": "GB Group",
+    "role": "Go-To-Market Engineer",
+    "location": "\u2014",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://apply.workable.com/gbg/j/115AB2EB94/?utm_source=Otta",
+    "skills": []
+  },
+  {
+    "company": "Flosum",
+    "role": "AI Go-to-Market Engineer",
+    "location": "\u2014",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://apply.workable.com/flosum/j/82189BF131/?utm_source=Otta",
+    "skills": []
+  },
+  {
+    "company": "PointOne",
+    "role": "GTM Engineer",
+    "location": "US",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://www.workatastartup.comhttps://www.ycombinator.com/companies/pointone/jobs/lEDIBUL-gtm-engineer",
+    "skills": [
+      "AI",
+      "automation",
+      "campaign infrastructure",
+      "account identification",
+      "signal detection",
+      "enrichment"
+    ]
+  },
+  {
+    "company": "Flash Pack",
+    "role": "Growth Engineer",
+    "location": "\u2014",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://careers.flashpack.com/jobs/7322126-growth-engineer?utm_source=Otta",
+    "skills": []
+  },
+  {
+    "company": "FE Fundinfo",
+    "role": "GTM Engineer",
+    "location": "\u2014",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://apply.workable.com/fe-fundinfo/j/2F144E78CF/?utm_source=Otta",
+    "skills": []
+  },
+  {
+    "company": "Juxta",
+    "role": "Growth Engineer",
+    "location": "US",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://www.workatastartup.comhttps://www.ycombinator.com/companies/juxta/jobs/ZCPgmGZ-growth-engineer",
+    "skills": []
+  },
+  {
+    "company": "hud",
+    "role": "GTM Engineer",
+    "location": "US",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://www.workatastartup.comhttps://www.ycombinator.com/companies/hud/jobs/S4iMOoe-gtm-engineer",
+    "skills": []
+  },
+  {
+    "company": "Clearly AI",
+    "role": "Founding GTM Engineer",
+    "location": "US, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://www.workatastartup.comhttps://www.ycombinator.com/companies/clearly-ai/jobs/XPx3PZD-founding-gtm-engineer",
+    "skills": [
+      "AI",
+      "GTM stack architecture",
+      "CRM",
+      "marketing automation",
+      "data enrichment"
+    ]
+  },
+  {
+    "company": "Fabulous",
+    "role": "Junior Product Manager and Growth Engineer",
+    "location": "\u2014",
+    "type": "New Grad",
+    "posted": "2026-06-22",
+    "url": "https://apply.workable.com/fabulousco/j/96362D5415/?utm_source=Otta",
+    "skills": []
+  },
+  {
+    "company": "Fabulous",
+    "role": "Growth Engineer",
+    "location": "\u2014",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://apply.workable.com/fabulousco/j/7E4A3493CF/?utm_source=Otta",
+    "skills": []
+  },
+  {
+    "company": "Relace",
+    "role": "GTM Engineer",
+    "location": "US",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://www.workatastartup.comhttps://www.ycombinator.com/companies/relace/jobs/9cATbuj-gtm-engineer",
+    "skills": [
+      "SQL",
+      "Looker",
+      "GA",
+      "Mixpanel",
+      "Amplitude",
+      "marketing automation"
+    ]
+  },
+  {
+    "company": "Equinix",
+    "role": "GTM Engineer",
+    "location": "\u2014",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://careers.equinix.com/jobs/gtm-engineer-customer-experience-lifecycle-dallas-texas-united-states-denver-colorado-new-york-redwood-city-california-tampa-florida-toronto-ontario-canada?utm_source=Otta",
+    "skills": []
+  },
+  {
+    "company": "Deskbird",
+    "role": "Website Growth Engineer",
+    "location": "\u2014",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://deskbird.jobs.personio.com/job/2643190?language=en&utm_source=Otta",
+    "skills": []
+  },
+  {
+    "company": "AthenaHQ",
+    "role": "Growth Engineer",
+    "location": "US",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://www.workatastartup.comhttps://www.ycombinator.com/companies/athenahq/jobs/ZqNEuPw-growth-engineer",
+    "skills": []
+  },
+  {
+    "company": "Oneleet",
+    "role": "GTM Engineer",
+    "location": "Remote",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://www.workatastartup.comhttps://www.ycombinator.com/companies/oneleet/jobs/jCgZBz8-gtm-engineer",
+    "skills": []
+  },
+  {
+    "company": "Coverflex",
+    "role": "Artificial Intelligence Growth Engineer",
+    "location": "\u2014",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://careers.coverflex.com/jobs/7745169-ai-growth-engineer?utm_source=Otta",
+    "skills": []
+  },
+  {
+    "company": "Blink",
+    "role": "GTM Engineer",
+    "location": "\u2014",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://apply.workable.com/joinblink/j/A590DD21F0/?utm_source=Otta",
+    "skills": []
+  },
+  {
+    "company": "Gooseworks",
+    "role": "Founding Growth Engineer",
+    "location": "US",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://www.workatastartup.comhttps://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer",
+    "skills": [
+      "Claude Code",
+      "Codex",
+      "OpenClaw",
+      "Hermes"
+    ]
+  },
+  {
+    "company": "Personio",
+    "role": "Senior GTM Engineer",
+    "location": "\u2014",
+    "type": "Senior",
+    "posted": "2026-06-22",
+    "url": "https://www.personio.com/careers/077bb219-285e-40cc-9d33-85c2a93e68a2?utm_source=mnKjpPWXwM",
+    "skills": []
+  }
 ]
