@@ -1,0 +1,6 @@
+[
+  {"company": "Clay", "role": "GTM Engineer", "location": "New York / Remote", "type": "Full-time", "posted": "2026-06-24", "url": "https://landed.b100x.ai", "skills": ["Clay", "APIs", "Automation"]},
+  {"company": "Vapi", "role": "GTM Engineer", "location": "Remote", "type": "Full-time", "posted": "2026-06-23", "url": "https://landed.b100x.ai", "skills": ["Outbound", "Python", "LLMs"]},
+  {"company": "Browserbase", "role": "Founding GTM Engineer", "location": "San Francisco", "type": "Full-time", "posted": "2026-06-21", "url": "https://landed.b100x.ai", "skills": ["Automation", "SQL", "Enrichment"]},
+  {"company": "Default", "role": "GTM Engineer", "location": "Remote (US)", "type": "Full-time", "posted": "2026-06-20", "url": "https://landed.b100x.ai", "skills": ["HubSpot", "APIs", "Workflows"]}
+]
