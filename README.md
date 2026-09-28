@@ -238,9 +238,6 @@ Spotted a closed or wrong role? [Open an issue](https://github.com/landedjobs/gt
 <summary><b>Guides and other lists</b></summary>
 
 - 🧭 [awesome-ai-native-jobs](https://github.com/landedjobs/awesome-ai-native-jobs): the map of every landed job list and guide
-- 🔥 [whos-hiring-in-ai](https://github.com/landedjobs/whos-hiring-in-ai): real hiring posts from founders on X
-- 💸 [recently-funded-ai-startups-hiring](https://github.com/landedjobs/recently-funded-ai-startups-hiring): fresh-capital startups staffing up
-- 🎓 [ai-fellowships-and-residencies](https://github.com/landedjobs/ai-fellowships-and-residencies): fellowships, residencies and programs
 - 📘 [ai-interview-guides](https://github.com/landedjobs/ai-interview-guides): company interview guides
 - 🧠 [awesome-ai-engineer-interview](https://github.com/landedjobs/awesome-ai-engineer-interview): AI engineer interview questions and system designs
 - 📦 [ai-engineer-portfolio-projects](https://github.com/landedjobs/ai-engineer-portfolio-projects): buildable portfolio projects
