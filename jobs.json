@@ -1,5 +1,172 @@
 [
   {
+    "dedupeKey": "job:4e197698-4952-427b-a4b6-de4cfa21d306",
+    "companyId": "company_851055ac68fe9508bd63dea6ba6e2b1d",
+    "company": "DigitalOcean",
+    "companyDomain": "digitalocean.com",
+    "role": "Senior GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/n198h8g",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Salesforce (flows, data model, permissions, deployments)",
+      "iPaaS tools",
+      "APIs",
+      "agents",
+      "LLM-powered automation",
+      "MCP-style integrations",
+      "sales engagement",
+      "CS platforms",
+      "CPQ",
+      "enrichment",
+      "marketing automation"
+    ],
+    "posted": "2026-10-01T21:22:46.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$13.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:ecf9eb58-4968-41f7-b7b9-fd80af8298ae",
+    "companyId": "company_851055ac68fe9508bd63dea6ba6e2b1d",
+    "company": "DigitalOcean",
+    "companyDomain": "digitalocean.com",
+    "role": "Senior GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/j79rxqd",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Denver, CO"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Salesforce (flows, data model, permissions, deployments)",
+      "iPaaS tools and/or APIs",
+      "AI to systems work: agents, LLM-powered automation, or MCP-style integrations"
+    ],
+    "posted": "2026-10-01T21:22:02.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$13.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:03199bce-3cf5-4179-a661-5cbe6ca0bf9e",
+    "companyId": "company_851055ac68fe9508bd63dea6ba6e2b1d",
+    "company": "DigitalOcean",
+    "companyDomain": "digitalocean.com",
+    "role": "Senior GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/jyuvqwj",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Boston, MA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Salesforce (flows, data model, permissions, deployments)",
+      "iPaaS tools",
+      "APIs",
+      "agents",
+      "LLM-powered automation",
+      "MCP-style integrations",
+      "sales engagement",
+      "CS platforms",
+      "CPQ",
+      "enrichment",
+      "marketing automation"
+    ],
+    "posted": "2026-10-01T21:21:36.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$13.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:a13734f0-7e0f-4979-91b5-7c3f1859b3a9",
+    "companyId": "company_851055ac68fe9508bd63dea6ba6e2b1d",
+    "company": "DigitalOcean",
+    "companyDomain": "digitalocean.com",
+    "role": "Senior GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/sccbay8",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Austin, TX"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Salesforce (flows, data model, permissions, deployments)",
+      "iPaaS tools",
+      "APIs",
+      "agents",
+      "LLM-powered automation",
+      "MCP-style integrations",
+      "sales engagement",
+      "CS platforms",
+      "CPQ",
+      "enrichment",
+      "marketing automation"
+    ],
+    "posted": "2026-10-01T21:20:57.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$13.7B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:ad6759b4-6cea-4208-953f-cd6f28b75908",
+    "companyId": "company_851055ac68fe9508bd63dea6ba6e2b1d",
+    "company": "DigitalOcean",
+    "companyDomain": "digitalocean.com",
+    "role": "Senior GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/5v864v4",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Salesforce (flows, data model, permissions, deployments)",
+      "iPaaS tools",
+      "APIs",
+      "agents",
+      "LLM-powered automation",
+      "MCP-style integrations",
+      "sales engagement",
+      "CS platforms",
+      "CPQ",
+      "enrichment",
+      "marketing automation"
+    ],
+    "posted": "2026-10-01T21:20:22.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$13.7B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:7a5a4201-48f6-4a1f-9642-1e96d1d50335",
     "companyId": "company_c6c3be2673e66b3b94f9520e77db9de1",
     "company": "Zip",
@@ -29,6 +196,40 @@
     "companyBadges": [
       "YC S20",
       "$2.2B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:eccb59db-cbdc-4982-8f3e-9abae2e99cff",
+    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
+    "company": "NVIDIA",
+    "companyDomain": "nvidia.com",
+    "role": "Growth Engineer, Developer Platform",
+    "applyUrl": "https://go.landed.jobs/wpkfrlx",
+    "location": "Santa Clara, CA · US",
+    "locations": [
+      "Santa Clara, CA",
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "CI checks",
+      "PR review tooling",
+      "metrics pipelines",
+      "agentic coding tools (e.g., Claude Code, Copilot, Cursor)",
+      "spam or low-quality-submission detection",
+      "anti-abuse",
+      "moderation",
+      "automated triage systems",
+      "technical writing"
+    ],
+    "posted": "2026-09-30T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$4.9T valuation"
     ]
   },
   {
@@ -70,7 +271,7 @@
     "locations": [
       "San Francisco, CA"
     ],
-    "remote": "",
+    "remote": "hybrid",
     "region": "us",
     "family": "software_engineering",
     "level": "senior",
@@ -156,12 +357,12 @@
     "companyDomain": "legalist.com",
     "role": "GTM Engineer",
     "applyUrl": "https://go.landed.jobs/99idshh",
-    "location": "New York City, NY",
+    "location": "🌐 Remote (US)",
     "locations": [
       "New York City, NY"
     ],
-    "remote": "",
-    "region": "us",
+    "remote": "remote",
+    "region": "remote",
     "family": "software_engineering",
     "level": "mid",
     "skills": [
@@ -185,12 +386,12 @@
     "companyDomain": "sentinelone.com",
     "role": "Sr. GTM Engineer, Inbound",
     "applyUrl": "https://go.landed.jobs/473lkwf",
-    "location": "US",
+    "location": "🌐 Remote (US)",
     "locations": [
       "US"
     ],
-    "remote": "",
-    "region": "us",
+    "remote": "remote",
+    "region": "remote",
     "family": "software_engineering",
     "level": "senior",
     "skills": [
@@ -310,12 +511,12 @@
     "companyDomain": "engine.com",
     "role": "Senior GTM Engineer",
     "applyUrl": "https://go.landed.jobs/tw68nqc",
-    "location": "US",
+    "location": "🌐 Remote (US)",
     "locations": [
       "US"
     ],
-    "remote": "hybrid",
-    "region": "us",
+    "remote": "remote",
+    "region": "remote",
     "family": "software_engineering",
     "level": "senior",
     "skills": [
@@ -338,12 +539,12 @@
     "companyDomain": "engine.com",
     "role": "Senior Growth Engineer",
     "applyUrl": "https://go.landed.jobs/a7y0ajr",
-    "location": "US",
+    "location": "🌐 Remote (US)",
     "locations": [
       "US"
     ],
-    "remote": "hybrid",
-    "region": "us",
+    "remote": "remote",
+    "region": "remote",
     "family": "software_engineering",
     "level": "senior",
     "skills": [
@@ -359,39 +560,6 @@
     ]
   },
   {
-    "dedupeKey": "job:eacf3c4c-c430-4136-8696-e081265d284f",
-    "companyId": "company_838beeb9dde3663dec4cc9538639cc8c",
-    "company": "Bounce",
-    "companyDomain": "bounce.com",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/afwxjub",
-    "location": "🌐 Remote (Portugal)",
-    "locations": [
-      "Lisbon, Portugal"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Javascript",
-      "Typescript",
-      "Elixir",
-      "Ruby",
-      "React",
-      "React Native",
-      "CSS",
-      "API design",
-      "unit/integration testing"
-    ],
-    "posted": "2026-09-16T12:25:25.613Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$360M valuation",
-      "Series B"
-    ]
-  },
-  {
     "dedupeKey": "job:96cc8015-d032-4d6a-8a64-c972007b28a8",
     "companyId": "company_80fe434ab57dce0ecab0595bb93c895f",
     "company": "Navan",
@@ -403,7 +571,7 @@
       "Austin, TX",
       "New York City, NY"
     ],
-    "remote": "",
+    "remote": "hybrid",
     "region": "us",
     "family": "software_engineering",
     "level": "senior",
@@ -435,7 +603,7 @@
       "San Francisco, CA",
       "New York City, NY"
     ],
-    "remote": "",
+    "remote": "hybrid",
     "region": "us",
     "family": "software_engineering",
     "level": "senior",
@@ -465,7 +633,7 @@
     "locations": [
       "New York City, NY"
     ],
-    "remote": "",
+    "remote": "hybrid",
     "region": "us",
     "family": "software_engineering",
     "level": "senior",
@@ -563,12 +731,12 @@
     "companyDomain": "adyen.com",
     "role": "GTM Engineer",
     "applyUrl": "https://go.landed.jobs/ukekshd",
-    "location": "🌐 Remote (US)",
+    "location": "New York City, NY",
     "locations": [
       "New York City, NY"
     ],
-    "remote": "remote",
-    "region": "remote",
+    "remote": "",
+    "region": "us",
     "family": "software_engineering",
     "level": "",
     "skills": [],
@@ -577,42 +745,6 @@
     "companyBadges": [
       "$32B valuation",
       "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:fe5e5318-0598-467f-8d19-0da0376fc3ab",
-    "companyId": "company_9b878f9baa905a12f9fc76a14cc356a0",
-    "company": "RunwayML",
-    "companyDomain": "runwayml.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/xushjjn",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York City, NY",
-      "Seattle, WA",
-      "San Francisco, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Python",
-      "SQL",
-      "APIs",
-      "agentic workflows",
-      "Salesforce",
-      "Gong",
-      "Clay",
-      "webhooks",
-      "data warehouses",
-      "BI tools",
-      "event-driven systems"
-    ],
-    "posted": "2026-09-01T22:13:24.541Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$5.3B valuation"
     ]
   },
   {
@@ -675,13 +807,13 @@
     "companyDomain": "creditgenie.com",
     "role": "Martech/ Growth Engineer",
     "applyUrl": "https://go.landed.jobs/wqg8ms7",
-    "location": "🌐 Remote (US)",
+    "location": "New York City, NY · Philadelphia, PA",
     "locations": [
       "New York City, NY",
       "Philadelphia, PA"
     ],
-    "remote": "remote",
-    "region": "remote",
+    "remote": "",
+    "region": "us",
     "family": "software_engineering",
     "level": "",
     "skills": [
@@ -731,12 +863,12 @@
     "companyDomain": "pika.art",
     "role": "Growth Engineer",
     "applyUrl": "https://go.landed.jobs/jvzpzlc",
-    "location": "US",
+    "location": "🌐 Remote (US)",
     "locations": [
       "US"
     ],
-    "remote": "hybrid",
-    "region": "us",
+    "remote": "remote",
+    "region": "remote",
     "family": "software_engineering",
     "level": "mid",
     "skills": [
@@ -786,12 +918,12 @@
     "companyDomain": "fictiv.com",
     "role": "Senior AI Growth Engineer",
     "applyUrl": "https://go.landed.jobs/qsehowd",
-    "location": "US",
+    "location": "🌐 Remote (US)",
     "locations": [
       "US"
     ],
-    "remote": "",
-    "region": "us",
+    "remote": "remote",
+    "region": "remote",
     "family": "ai_machine_learning",
     "level": "senior",
     "skills": [],
@@ -841,12 +973,12 @@
     "companyDomain": "genspark.ai",
     "role": "GTM Engineer",
     "applyUrl": "https://go.landed.jobs/8j7jwf5",
-    "location": "🌐 Remote (US)",
+    "location": "New York City, NY",
     "locations": [
       "New York City, NY"
     ],
-    "remote": "remote",
-    "region": "remote",
+    "remote": "hybrid",
+    "region": "us",
     "family": "software_engineering",
     "level": "",
     "skills": [
@@ -861,38 +993,10 @@
     ]
   },
   {
-    "dedupeKey": "job:06c4974b-c429-457d-a3c0-5bb40f94eb7b",
+    "dedupeKey": "job:f17bf92c-1a5a-435f-a5b1-b491dd5ccf44",
     "companyId": "company_5a90bb40002619ea21d11eac2c7dbd88",
     "company": "Trunk Tools",
     "companyDomain": "trunktools.com",
-    "role": "Founding GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/xsbxkve",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Clay",
-      "Claude",
-      "Chat",
-      "Zapier",
-      "AI agents / agentic workflows"
-    ],
-    "posted": "2026-09-16T18:18:25.948Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series B"
-    ]
-  },
-  {
-    "dedupeKey": "job:f17bf92c-1a5a-435f-a5b1-b491dd5ccf44",
-    "companyId": "company_06dfd5fa691072bf90dfd176b3146fa3",
-    "company": "Trunk Tools",
-    "companyDomain": "trunk.tools",
     "role": "Founding GTM Engineer",
     "applyUrl": "https://go.landed.jobs/oji254i",
     "location": "New York City, NY",
@@ -916,38 +1020,6 @@
       "Zapier"
     ],
     "posted": "2026-09-16T18:18:25.948Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series B"
-    ]
-  },
-  {
-    "dedupeKey": "job:3d5c5240-d517-4581-9e49-89b4a5334649",
-    "companyId": "company_37bf7e51d052be55efafaf3d216a7b93",
-    "company": "Bounce",
-    "companyDomain": "usebounce.com",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/alm0ba9",
-    "location": "🌐 Remote (Portugal)",
-    "locations": [
-      "Lisbon, Portugal"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Javascript",
-      "Typescript",
-      "Elixir",
-      "Ruby",
-      "React",
-      "React Native",
-      "CSS",
-      "API design",
-      "unit/integration testing"
-    ],
-    "posted": "2026-09-16T12:25:25.613Z",
     "companyTier": "C",
     "companyBadges": [
       "Series B"
@@ -993,7 +1065,7 @@
     "locations": [
       "San Francisco, CA"
     ],
-    "remote": "hybrid",
+    "remote": "",
     "region": "us",
     "family": "software_engineering",
     "level": "",
@@ -1006,7 +1078,9 @@
     ],
     "posted": "2026-09-10T22:12:56.709Z",
     "companyTier": "C",
-    "companyBadges": []
+    "companyBadges": [
+      "Seed"
+    ]
   },
   {
     "dedupeKey": "job:afd53fb6-6f2d-4adb-a985-56367eb794ba",
@@ -1030,7 +1104,9 @@
     ],
     "posted": "2026-09-10T01:25:06.695Z",
     "companyTier": "C",
-    "companyBadges": []
+    "companyBadges": [
+      "Series D"
+    ]
   },
   {
     "dedupeKey": "job:20b74270-a9c7-4092-8991-891b97ee6698",
@@ -1056,8 +1132,10 @@
       "Retool"
     ],
     "posted": "2026-09-08T17:52:02.762Z",
-    "companyTier": "U",
-    "companyBadges": []
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
+    ]
   },
   {
     "dedupeKey": "job:dd414bc6-ecae-4b8c-bf94-bda477d3775b",
@@ -1066,12 +1144,12 @@
     "companyDomain": "opal.dev",
     "role": "Growth Engineer",
     "applyUrl": "https://go.landed.jobs/1fc7xrf",
-    "location": "🌐 Remote (US)",
+    "location": "San Francisco, CA",
     "locations": [
       "San Francisco, CA"
     ],
-    "remote": "remote",
-    "region": "remote",
+    "remote": "hybrid",
+    "region": "us",
     "family": "software_engineering",
     "level": "",
     "skills": [
@@ -1080,7 +1158,46 @@
     ],
     "posted": "2026-09-02T23:53:37.768Z",
     "companyTier": "C",
-    "companyBadges": []
+    "companyBadges": [
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:fe5e5318-0598-467f-8d19-0da0376fc3ab",
+    "companyId": "company_9b878f9baa905a12f9fc76a14cc356a0",
+    "company": "RunwayML",
+    "companyDomain": "runwayml.com",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/xushjjn",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "New York City, NY",
+      "Seattle, WA",
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "Python",
+      "SQL",
+      "APIs",
+      "agentic workflows",
+      "Salesforce",
+      "Gong",
+      "Clay",
+      "webhooks",
+      "data warehouses",
+      "BI tools",
+      "event-driven systems"
+    ],
+    "posted": "2026-09-01T22:13:24.541Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$5.3B valuation",
+      "Series D"
+    ]
   },
   {
     "dedupeKey": "job:baea564d-51f2-4e3d-ba87-3751bc97bdfe",
@@ -1150,12 +1267,12 @@
     "companyDomain": "clay.com",
     "role": "GTM Engineer Manager - Seller Efficiency",
     "applyUrl": "https://go.landed.jobs/lbsjuif",
-    "location": "🌐 Remote (US)",
+    "location": "New York City, NY",
     "locations": [
       "New York City, NY"
     ],
-    "remote": "remote",
-    "region": "remote",
+    "remote": "hybrid",
+    "region": "us",
     "family": "software_engineering",
     "level": "",
     "skills": [
@@ -1209,12 +1326,12 @@
     "companyDomain": "decagon.ai",
     "role": "Growth Engineer, Web & Growth Products",
     "applyUrl": "https://go.landed.jobs/qj9plei",
-    "location": "🌐 Remote (US)",
+    "location": "San Francisco, CA",
     "locations": [
       "San Francisco, CA"
     ],
-    "remote": "remote",
-    "region": "remote",
+    "remote": "",
+    "region": "us",
     "family": "software_engineering",
     "level": "senior",
     "skills": [
@@ -1263,12 +1380,12 @@
     "companyDomain": "bitsight.com",
     "role": "GTM Engineer",
     "applyUrl": "https://go.landed.jobs/tn73n6c",
-    "location": "🌐 Remote (US)",
+    "location": "Boston, MA",
     "locations": [
       "Boston, MA"
     ],
-    "remote": "remote",
-    "region": "remote",
+    "remote": "",
+    "region": "us",
     "family": "software_engineering",
     "level": "mid",
     "skills": [
@@ -1296,12 +1413,12 @@
     "companyDomain": "hiya.com",
     "role": "Senior GTM Engineer – Web & AI",
     "applyUrl": "https://go.landed.jobs/e6b7scu",
-    "location": "🌐 Remote (US)",
+    "location": "Seattle, WA",
     "locations": [
       "Seattle, WA"
     ],
-    "remote": "remote",
-    "region": "remote",
+    "remote": "hybrid",
+    "region": "us",
     "family": "software_engineering",
     "level": "senior",
     "skills": [
@@ -1316,8 +1433,10 @@
       "Anthropic"
     ],
     "posted": "2026-08-26T19:30:36.675Z",
-    "companyTier": "U",
-    "companyBadges": []
+    "companyTier": "C",
+    "companyBadges": [
+      "Series C"
+    ]
   },
   {
     "dedupeKey": "job:57328bad-2dbc-466a-aaee-4b7e2c560042",
@@ -1384,8 +1503,10 @@
       "building internal tools"
     ],
     "posted": "2026-08-25T16:56:39.377Z",
-    "companyTier": "U",
-    "companyBadges": []
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
   },
   {
     "dedupeKey": "job:660e9965-3810-4c22-a592-5a89201e74a2",
@@ -1439,7 +1560,9 @@
     ],
     "posted": "2026-08-24T21:10:54.201Z",
     "companyTier": "C",
-    "companyBadges": []
+    "companyBadges": [
+      "Series A"
+    ]
   },
   {
     "dedupeKey": "job:94b07b04-b47d-4e3d-b734-56e29dd34c61",
@@ -1448,13 +1571,13 @@
     "companyDomain": "watershed.com",
     "role": "GTM engineer",
     "applyUrl": "https://go.landed.jobs/uavyh7t",
-    "location": "🌐 Remote (US)",
+    "location": "San Francisco, CA · New York City, NY",
     "locations": [
       "San Francisco, CA",
       "New York City, NY"
     ],
-    "remote": "remote",
-    "region": "remote",
+    "remote": "",
+    "region": "us",
     "family": "software_engineering",
     "level": "",
     "skills": [
@@ -1485,13 +1608,13 @@
     "companyDomain": "expo.dev",
     "role": "GTM Engineer",
     "applyUrl": "https://go.landed.jobs/sb2vye5",
-    "location": "Canada · US",
+    "location": "🌐 Remote (Canada, US)",
     "locations": [
       "Canada",
       "US"
     ],
-    "remote": "",
-    "region": "us",
+    "remote": "remote",
+    "region": "remote",
     "family": "software_engineering",
     "level": "mid",
     "skills": [
@@ -1570,37 +1693,6 @@
     ]
   },
   {
-    "dedupeKey": "job:34f963c6-fb83-4c5c-9012-7e335834d43f",
-    "companyId": "company_131493abae2d638138822d91c2d642e6",
-    "company": "Nominal",
-    "companyDomain": "nominal.io",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/mneljpe",
-    "location": "New York City, NY +2",
-    "locations": [
-      "New York City, NY",
-      "Los Angeles, CA",
-      "Austin, TX"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Salesforce architecture",
-      "data pipelines",
-      "Gong",
-      "Common Room",
-      "Clay"
-    ],
-    "posted": "2026-08-04T00:04:14.615Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Future of Work 50",
-      "$1B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:069117f2-1e28-49d8-8034-43dfdf3c2683",
     "companyId": "company_b18596e58bdffc345bee13b8767ddb0c",
     "company": "Posh",
@@ -1634,7 +1726,7 @@
     "companyDomain": "elevenlabs.io",
     "role": "Website Growth Engineer",
     "applyUrl": "https://go.landed.jobs/y2w23gi",
-    "location": "🌐 Remote (UK, Spain, US +1)",
+    "location": "🌐 Remote (US)",
     "locations": [
       "London, UK",
       "Spain",
@@ -1670,7 +1762,7 @@
     "locations": [
       "San Francisco, CA"
     ],
-    "remote": "hybrid",
+    "remote": "",
     "region": "us",
     "family": "software_engineering",
     "level": "mid",
@@ -1725,7 +1817,7 @@
     "locations": [
       "San Francisco, CA"
     ],
-    "remote": "hybrid",
+    "remote": "",
     "region": "us",
     "family": "software_engineering",
     "level": "",
@@ -1928,12 +2020,12 @@
     "companyDomain": "firecrawl.dev",
     "role": "Senior Growth Engineer",
     "applyUrl": "https://go.landed.jobs/j6c85rx",
-    "location": "🌐 Remote (US)",
+    "location": "San Francisco, CA",
     "locations": [
       "San Francisco, CA"
     ],
-    "remote": "remote",
-    "region": "remote",
+    "remote": "",
+    "region": "us",
     "family": "software_engineering",
     "level": "senior",
     "skills": [
@@ -1964,12 +2056,12 @@
     "companyDomain": "joinhandshake.com",
     "role": "GTM Engineer",
     "applyUrl": "https://go.landed.jobs/7ohzuum",
-    "location": "🌐 Remote (US)",
+    "location": "San Francisco, CA",
     "locations": [
       "San Francisco, CA"
     ],
-    "remote": "remote",
-    "region": "remote",
+    "remote": "hybrid",
+    "region": "us",
     "family": "software_engineering",
     "level": "senior",
     "skills": [
@@ -2026,6 +2118,28 @@
     "companyBadges": [
       "YC W18",
       "$4.2B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:83364959-a565-4802-b76f-b0a99e5d0b2a",
+    "companyId": "company_7792c80b91e9cde9405109ef4c6c66a9",
+    "company": "Ollama",
+    "companyDomain": "ollama.com",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/73f5g7r",
+    "location": "Palo Alto, CA",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [],
+    "posted": "2026-07-09T20:26:35.636Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
     ]
   },
   {
@@ -2174,30 +2288,115 @@
     ]
   },
   {
-    "dedupeKey": "job:aeda1fe8-1e13-476f-95fa-496ca31670c1",
-    "companyId": "company_2fd0fa5fb183b7a5db52692e77a1aaff",
-    "company": "Perk",
-    "companyDomain": "perk.com",
-    "role": "Senior GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/kyn37kk",
-    "location": "Barcelona",
+    "dedupeKey": "job:eacf3c4c-c430-4136-8696-e081265d284f",
+    "companyId": "company_838beeb9dde3663dec4cc9538639cc8c",
+    "company": "Bounce",
+    "companyDomain": "bounce.com",
+    "role": "Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/afwxjub",
+    "location": "Lisbon, Portugal",
     "locations": [
-      "Barcelona"
+      "Lisbon, Portugal"
     ],
     "remote": "hybrid",
     "region": "world",
     "family": "software_engineering",
-    "level": "senior",
+    "level": "",
     "skills": [
-      "Clay",
-      "webhooks",
-      "HTTP API integrations",
-      "prompt engineering"
+      "Javascript",
+      "Typescript",
+      "Elixir",
+      "Ruby",
+      "React",
+      "React Native",
+      "CSS",
+      "API design",
+      "unit/integration testing"
     ],
-    "posted": "2026-09-15T14:21:50.410Z",
+    "posted": "2026-09-16T12:25:25.613Z",
     "companyTier": "B",
     "companyBadges": [
-      "$2.7B valuation"
+      "$360M valuation",
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:864f28de-799d-4b64-8ce9-b2a65a90d379",
+    "companyId": "company_5f3c7d118ab92784657b8dfc2c1d5a88",
+    "company": "Granola",
+    "companyDomain": "granola.so",
+    "role": "Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/0997p7r",
+    "location": "London, UK",
+    "locations": [
+      "London, UK"
+    ],
+    "remote": "",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "TypeScript",
+      "React",
+      "Node.js",
+      "product analytics tools",
+      "A/B testing infrastructure"
+    ],
+    "posted": "2026-09-15T14:44:17.079Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:106941c0-cb9d-439a-871e-13a3cb9e5f3b",
+    "companyId": "company_006106f49fec9546725b8438ac9a1225",
+    "company": "Vivid Money",
+    "companyDomain": "vivid.money",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/5wiocpi",
+    "location": "🌐 Remote",
+    "locations": [
+      "Berlin,Limassol,Remote,Barcelona"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "LLM APIs and agents",
+      "Braze"
+    ],
+    "posted": "2026-10-02T14:17:06.357Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "$780M valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:b86553a3-45fe-4777-9608-f75e9a6672db",
+    "companyId": "company_8fab8e29021227ce31f40df5f2d59f93",
+    "company": "Speechmatics",
+    "companyDomain": "speechmatics.com",
+    "role": "Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/04hg9xt",
+    "location": "Belgrade, Serbia",
+    "locations": [
+      "Belgrade, Serbia"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "Python",
+      "LLM and AI-first development workflows",
+      "Vercel"
+    ],
+    "posted": "2026-10-01T08:28:51.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
     ]
   },
   {
@@ -2293,7 +2492,9 @@
     ],
     "posted": "2026-09-23T21:40:13.307Z",
     "companyTier": "C",
-    "companyBadges": []
+    "companyBadges": [
+      "Series A"
+    ]
   },
   {
     "dedupeKey": "job:94b32aa7-a680-4a3f-8af9-2a6bdae3aff5",
@@ -2354,32 +2555,6 @@
     "companyBadges": [
       "Series A"
     ]
-  },
-  {
-    "dedupeKey": "job:864f28de-799d-4b64-8ce9-b2a65a90d379",
-    "companyId": "company_5f3c7d118ab92784657b8dfc2c1d5a88",
-    "company": "Granola",
-    "companyDomain": "granola.so",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/0997p7r",
-    "location": "London, UK",
-    "locations": [
-      "London, UK"
-    ],
-    "remote": "",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "TypeScript",
-      "React",
-      "Node.js",
-      "product analytics tools",
-      "A/B testing infrastructure"
-    ],
-    "posted": "2026-09-15T14:44:17.079Z",
-    "companyTier": "C",
-    "companyBadges": []
   },
   {
     "dedupeKey": "job:2c6b646c-b20e-45b3-b85a-e7a049c7d516",
@@ -2470,12 +2645,12 @@
     "companyDomain": "getviktor.com",
     "role": "GTM Engineer",
     "applyUrl": "https://go.landed.jobs/cruu5r7",
-    "location": "🌐 Remote (Poland)",
+    "location": "Warsaw, Poland",
     "locations": [
       "Warsaw, Poland"
     ],
-    "remote": "remote",
-    "region": "remote",
+    "remote": "",
+    "region": "world",
     "family": "software_engineering",
     "level": "",
     "skills": [
@@ -2562,12 +2737,12 @@
     "companyDomain": "papayaglobal.com",
     "role": "AI GTM Engineer",
     "applyUrl": "https://go.landed.jobs/l842fbg",
-    "location": "🌐 Remote (Spain)",
+    "location": "Barcelona, Spain",
     "locations": [
       "Barcelona, Spain"
     ],
-    "remote": "remote",
-    "region": "remote",
+    "remote": "hybrid",
+    "region": "world",
     "family": "ai_machine_learning",
     "level": "",
     "skills": [
@@ -2596,7 +2771,7 @@
     "locations": [
       "Tel Aviv, Israel"
     ],
-    "remote": "hybrid",
+    "remote": "",
     "region": "world",
     "family": "ai_machine_learning",
     "level": "mid",
@@ -2612,40 +2787,6 @@
     "posted": "2026-08-16T07:44:13.000Z",
     "companyTier": "U",
     "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:75118baa-468e-487b-8f98-0fb9b775e704",
-    "companyId": "company_56a8ca5d87db93e6851538c43d67205f",
-    "company": "Qobra",
-    "companyDomain": "qobra.co",
-    "role": "GTM Engineer - Paris",
-    "applyUrl": "https://go.landed.jobs/h31xnqf",
-    "location": "🌐 Remote (France)",
-    "locations": [
-      "Paris, France"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Captain Data",
-      "Clay",
-      "Cargo",
-      "Clearbit",
-      "N8N",
-      "data structures",
-      "lead scoring",
-      "pipeline reporting",
-      "data modeling",
-      "enrichment",
-      "AI-driven personalization"
-    ],
-    "posted": "2026-08-10T08:24:14.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
-    ]
   },
   {
     "dedupeKey": "job:dbd79c92-23f3-4a20-8931-2b21632b5051",
@@ -2734,28 +2875,6 @@
     "companyBadges": [
       "YC S15",
       "$1.5B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:83364959-a565-4802-b76f-b0a99e5d0b2a",
-    "companyId": "company_7792c80b91e9cde9405109ef4c6c66a9",
-    "company": "Ollama",
-    "companyDomain": "ollama.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/73f5g7r",
-    "location": "Palo Alto",
-    "locations": [
-      "Palo Alto"
-    ],
-    "remote": "hybrid",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [],
-    "posted": "2026-07-09T20:26:35.636Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series B"
     ]
   }
 ]
