@@ -261,38 +261,6 @@
     ]
   },
   {
-    "dedupeKey": "job:b4126549-a13c-4e5f-98b7-99f84be66bab",
-    "companyId": "company_6268792d1010ee198befb473acab3907",
-    "company": "Salesforce",
-    "companyDomain": "salesforce.com",
-    "role": "GTM Engineer, Maestro",
-    "applyUrl": "https://go.landed.jobs/f7nhobq",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Apex",
-      "Flow",
-      "Lightning Web Components",
-      "data modeling",
-      "integrations",
-      "Marketing Cloud",
-      "Revenue Cloud",
-      "Data 360"
-    ],
-    "posted": "2026-09-22T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$151B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:3f43023f-b1eb-44ec-a2cc-3748820330aa",
     "companyId": "company_82bcf9f7dd53988a1cd71b62cbafa06f",
     "company": "ClickHouse",
@@ -745,6 +713,34 @@
     "companyBadges": [
       "$32B valuation",
       "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:bf3c826b-9bba-4a70-ada0-027dc25533c1",
+    "companyId": "company_952de648ede3b48fed2b6ef2b81051cc",
+    "company": "Rho",
+    "companyDomain": "rho.co",
+    "role": "Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/j75bybq",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "Ahrefs",
+      "Google Search Console",
+      "rank-tracking APIs",
+      "Profound",
+      "LLM or agentic content pipelines"
+    ],
+    "posted": "2026-10-02T23:31:44.513Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
     ]
   },
   {
@@ -2495,6 +2491,29 @@
     "companyBadges": [
       "Series A"
     ]
+  },
+  {
+    "dedupeKey": "job:29fa91c3-7569-4dfb-87aa-0a8bbd0bb104",
+    "companyId": "company_e8ba8360c25e8da0cb7a4572cf9bcf43",
+    "company": "Sirona Medical",
+    "companyDomain": "sironamedical.com",
+    "role": "Go-To-Market Engineer (Office of the Founder)",
+    "applyUrl": "https://go.landed.jobs/inioid7",
+    "location": "🌐 Remote",
+    "locations": [
+      "Remote"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "Python",
+      "Claude-based plugin"
+    ],
+    "posted": "2026-09-21T05:54:57.000Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
     "dedupeKey": "job:94b32aa7-a680-4a3f-8af9-2a6bdae3aff5",
