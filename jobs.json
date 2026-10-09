@@ -291,6 +291,42 @@
     ]
   },
   {
+    "dedupeKey": "job:4d9fbb65-4e62-4e28-9b42-ca4c9b9295b6",
+    "companyId": "company_e30e56d309468ded6ff9d1fbc80ec130",
+    "company": "Search results | Find available job openings at GE HealthCare",
+    "companyDomain": "gehealthcare.com",
+    "role": "Sales Enablement GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/1u6bu7d",
+    "location": "Waukesha, WI · Chicago, IL",
+    "locations": [
+      "Waukesha, WI",
+      "Chicago, IL"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Salesforce",
+      "MuleSoft",
+      "Agentic AI",
+      "Apex",
+      "Flow",
+      "Python",
+      "REST Query API",
+      "Agentforce script",
+      "Lightning Actions",
+      "HXL",
+      "Model Context Protocol (MCP)",
+      "JavaScript"
+    ],
+    "posted": "2026-10-07T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:7a447e15-a965-4263-b8c5-ba804db05493",
     "companyId": "company_4e3c4ab81d1eec416ce38e52ff3ef54d",
     "company": "Wispr Flow",
@@ -720,27 +756,29 @@
     ]
   },
   {
-    "dedupeKey": "job:1d6bb5a8-8ac1-44b5-bb57-30ecd50f5fa1",
-    "companyId": "company_6783ba025766dad2e8a770f4f9fa8fa7",
-    "company": "Adyen",
-    "companyDomain": "adyen.com",
+    "dedupeKey": "job:57230789-15be-4ac7-b93d-206811391081",
+    "companyId": "company_054afa765294ad0ddd8307f8ce2eff0a",
+    "company": "Pogo",
+    "companyDomain": "joinpogo.com",
     "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/ukekshd",
-    "location": "New York City, NY",
+    "applyUrl": "https://go.landed.jobs/753s1gu",
+    "location": "🌐 Remote (US, Canada)",
     "locations": [
-      "New York City, NY"
+      "US",
+      "Canada"
     ],
-    "remote": "",
-    "region": "us",
+    "remote": "remote",
+    "region": "remote",
     "family": "software_engineering",
-    "level": "",
-    "skills": [],
-    "posted": "2026-09-08T17:26:51.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$32B valuation",
-      "Public"
-    ]
+    "level": "mid",
+    "skills": [
+      "AI-powered systems",
+      "shipping code",
+      "GTM, growth, or revenue systems"
+    ],
+    "posted": "2026-10-08T18:58:39.245Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
     "dedupeKey": "job:d9503493-6d06-4f4b-a101-6199a198f07c",
@@ -1189,6 +1227,29 @@
     "companyTier": "C",
     "companyBadges": [
       "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:1d6bb5a8-8ac1-44b5-bb57-30ecd50f5fa1",
+    "companyId": "company_6783ba025766dad2e8a770f4f9fa8fa7",
+    "company": "Adyen",
+    "companyDomain": "adyen.com",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/ukekshd",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [],
+    "posted": "2026-09-08T17:26:51.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$32B valuation",
+      "Public"
     ]
   },
   {
@@ -1686,6 +1747,38 @@
     ]
   },
   {
+    "dedupeKey": "job:635d0d56-71ea-42a7-acb5-1be85c1474d6",
+    "companyId": "company_a8ba89e0fdb5a6e1ac1ee6ccce7cb058",
+    "company": "CrowdStrike",
+    "companyDomain": "crowdstrike.com",
+    "role": "Sr. AI Growth Engineer (Remote)",
+    "applyUrl": "https://go.landed.jobs/jucb5xv",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "AI agents",
+      "Python",
+      "TypeScript",
+      "JavaScript",
+      "React",
+      "LLM",
+      "REST APIs",
+      "marketing automation"
+    ],
+    "posted": "2026-08-06T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Cloud Infra 50",
+      "$194B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:64cb6c44-783a-4f52-9c8e-50727ceb81ef",
     "companyId": "company_d57f521980a39128b7e3f1c628e4459b",
     "company": "Peregrine",
@@ -2040,120 +2133,59 @@
     ]
   },
   {
-    "dedupeKey": "job:beb78f1d-0ccc-4215-95fe-d018e02f501a",
-    "companyId": "company_dcb4a61512a7d1bf705fecb96527f0f8",
-    "company": "Handshake",
-    "companyDomain": "joinhandshake.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/7ohzuum",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:11a7c0d2-e72e-48ad-8c15-874e9ba708df",
+    "companyId": "company_8be1c7819c978dc3a4338983138af83a",
+    "company": "Lovable",
+    "companyDomain": "lovable.dev",
+    "role": "Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/v9cs1tw",
+    "location": "London, UK",
     "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Salesforce",
-      "Gainsight",
-      "Gong",
-      "Nooks",
-      "Clay",
-      "BigQuery",
-      "Python",
-      "SQL",
-      "Salesforce Flows",
-      "Workato",
-      "LLM APIs (Claude, OpenAI)",
-      "Claude Agent SDK"
-    ],
-    "posted": "2026-07-10T23:47:36.265Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$3.5B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:bf4c08f6-a7cf-4ee2-b082-b5661174bc3f",
-    "companyId": "company_0f370f5f4cd52a2ced02692095c66062",
-    "company": "Vanta",
-    "companyDomain": "vanta.com",
-    "role": "Sr. AI GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/9hwdw8m",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "go",
-      "Python",
-      "TypeScript",
-      "JavaScript",
-      "SQL",
-      "React",
-      "LLM",
-      "prompt engineering",
-      "dbt",
-      "Snowflake",
-      "Salesforce",
-      "HubSpot"
-    ],
-    "posted": "2026-07-10T15:10:18.843Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC W18",
-      "$4.2B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:83364959-a565-4802-b76f-b0a99e5d0b2a",
-    "companyId": "company_7792c80b91e9cde9405109ef4c6c66a9",
-    "company": "Ollama",
-    "companyDomain": "ollama.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/73f5g7r",
-    "location": "Palo Alto, CA",
-    "locations": [
-      "Palo Alto, CA"
+      "London, UK"
     ],
     "remote": "",
-    "region": "us",
+    "region": "world",
     "family": "software_engineering",
-    "level": "",
-    "skills": [],
-    "posted": "2026-07-09T20:26:35.636Z",
-    "companyTier": "C",
+    "level": "senior",
+    "skills": [
+      "React",
+      "APIs"
+    ],
+    "posted": "2026-10-07T21:49:07.382Z",
+    "companyTier": "A",
     "companyBadges": [
-      "Series B"
+      "TrueUp AI 50",
+      "$13.3B valuation"
     ]
   },
   {
-    "dedupeKey": "job:bf016332-1c95-4c1f-a17e-aac2313cf1f7",
-    "companyId": "company_43b16ab3a8011103d4f4017454425520",
-    "company": "Hearth",
-    "companyDomain": "gethearth.com",
-    "role": "Founding GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/axvixg8",
-    "location": "New York City, NY",
+    "dedupeKey": "job:9963733c-4255-414f-a912-8140ad13bf8f",
+    "companyId": "company_1faf9b8a0e465b069c66a639e8a89b44",
+    "company": "DataSnipper",
+    "companyDomain": "datasnipper.com",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/e8dnzra",
+    "location": "Amsterdam, Netherlands",
     "locations": [
-      "New York City, NY"
+      "Amsterdam, Netherlands"
     ],
     "remote": "hybrid",
-    "region": "us",
+    "region": "world",
     "family": "software_engineering",
-    "level": "",
+    "level": "mid",
     "skills": [
-      "Salesforce and HubSpot",
-      "Claude Code"
+      "Snowflake",
+      "AI agents",
+      "HubSpot",
+      "CRM administration",
+      "LLMs"
     ],
-    "posted": "2026-07-09T13:26:23.579Z",
-    "companyTier": "U",
-    "companyBadges": []
+    "posted": "2026-10-08T07:57:06.561Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1B valuation",
+      "Series B"
+    ]
   },
   {
     "dedupeKey": "job:91bba26b-4bfb-4634-b731-014e82abbe30",
@@ -2314,6 +2346,35 @@
     ]
   },
   {
+    "dedupeKey": "job:7b2c3fc7-6eb3-4286-b2ef-a16c749aa293",
+    "companyId": "company_cddf6126578003dda73cc25f2558d8d3",
+    "company": "Nectar Social",
+    "companyDomain": "nectarsocial.com",
+    "role": "Founding GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/ocppot0",
+    "location": "Lahore, Pakistan",
+    "locations": [
+      "Lahore, Pakistan"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "Claude Code",
+      "Cursor",
+      "Clay",
+      "n8n",
+      "Gong",
+      "Salesforce"
+    ],
+    "posted": "2026-10-07T15:12:20.843Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
+  },
+  {
     "dedupeKey": "job:106941c0-cb9d-439a-871e-13a3cb9e5f3b",
     "companyId": "company_006106f49fec9546725b8438ac9a1225",
     "company": "Vivid Money",
@@ -2363,39 +2424,6 @@
     "companyBadges": [
       "Series B"
     ]
-  },
-  {
-    "dedupeKey": "job:d7cafc78-b892-4f6f-865a-38a6c2f661b5",
-    "companyId": "company_9ac1938293977f07b12e2dd6f8a3b5ea",
-    "company": "Oak",
-    "companyDomain": "oak.id",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/rvyyemx",
-    "location": "Tel Aviv, Israel",
-    "locations": [
-      "Tel Aviv, Israel"
-    ],
-    "remote": "",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "HubSpot",
-      "Clay",
-      "Apollo",
-      "Salesforce",
-      "n8n",
-      "Zapier",
-      "Make",
-      "Outreach",
-      "Python",
-      "JavaScript",
-      "TypeScript",
-      "SQL"
-    ],
-    "posted": "2026-09-24T13:42:31.420Z",
-    "companyTier": "U",
-    "companyBadges": []
   },
   {
     "dedupeKey": "job:25013ee4-e1f1-4569-8f94-c9d71347e2a5",
@@ -2526,16 +2554,12 @@
     "companyDomain": "fonio.ai",
     "role": "Growth Engineer",
     "applyUrl": "https://go.landed.jobs/6vdbj44",
-    "location": "🌐 Remote (Austria, UK, France +4)",
+    "location": "🌐 Remote (Austria, UK, Germany +1)",
     "locations": [
       "Vienna, Austria",
       "London, UK",
-      "Paris, France",
-      "Amsterdam, Netherlands",
       "Munich, Germany",
-      "Berlin, Germany",
-      "Madrid, Spain",
-      "Dublin, Ireland"
+      "Barcelona, Spain"
     ],
     "remote": "remote",
     "region": "remote",
