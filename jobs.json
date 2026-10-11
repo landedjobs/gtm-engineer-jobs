@@ -1,5 +1,31 @@
 [
   {
+    "dedupeKey": "job:cf264640-6e86-471b-b534-775515ed67b0",
+    "companyId": "company_344f8b9378a0dae5084c72629d895e24",
+    "company": "Forus",
+    "companyDomain": "forus.com",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/10yl2zb",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "LLMs",
+      "agents"
+    ],
+    "posted": "2026-10-09T18:20:31.985Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$1B valuation",
+      "Series B"
+    ]
+  },
+  {
     "dedupeKey": "job:4e197698-4952-427b-a4b6-de4cfa21d306",
     "companyId": "company_851055ac68fe9508bd63dea6ba6e2b1d",
     "company": "DigitalOcean",
@@ -720,48 +746,12 @@
     ]
   },
   {
-    "dedupeKey": "job:065aed16-a270-490d-ba8a-4142fe865ceb",
-    "companyId": "company_1a0a77df852aad6ad9d9f3a41af201de",
-    "company": "Marqeta",
-    "companyDomain": "marqeta.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/pnyavxj",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Clay",
-      "Apollo",
-      "Marketo",
-      "Salesforce",
-      "Demandbase",
-      "Gong",
-      "LLMs",
-      "prompt engineering",
-      "APIs",
-      "webhooks",
-      "JavaScript",
-      "Python"
-    ],
-    "posted": "2026-09-09T19:08:45.208Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.7B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:57230789-15be-4ac7-b93d-206811391081",
+    "dedupeKey": "job:d7a179fd-9d0b-44e7-81b6-4d29cd7f51d4",
     "companyId": "company_054afa765294ad0ddd8307f8ce2eff0a",
     "company": "Pogo",
     "companyDomain": "joinpogo.com",
     "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/753s1gu",
+    "applyUrl": "https://go.landed.jobs/sl0t6l0",
     "location": "🌐 Remote (US, Canada)",
     "locations": [
       "US",
@@ -772,11 +762,10 @@
     "family": "software_engineering",
     "level": "mid",
     "skills": [
-      "AI-powered systems",
-      "shipping code",
-      "GTM, growth, or revenue systems"
+      "building AI-powered systems",
+      "shipping code"
     ],
-    "posted": "2026-10-08T18:58:39.245Z",
+    "posted": "2026-10-10T12:15:11.945Z",
     "companyTier": "U",
     "companyBadges": []
   },
@@ -840,32 +829,6 @@
     ]
   },
   {
-    "dedupeKey": "job:d7292265-cece-4038-9a6e-e6def6e953c2",
-    "companyId": "company_2f4ec8058ed5f37c4198761ed75b2549",
-    "company": "Hypha",
-    "companyDomain": "hypha.co",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/cfcy8p3",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "AI agents",
-      "dbt",
-      "Snowflake"
-    ],
-    "posted": "2026-09-29T16:19:35.041Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Seed"
-    ]
-  },
-  {
     "dedupeKey": "job:ec688c17-daf7-411c-9eb3-92eb568cdef7",
     "companyId": "company_9e0503b377c9d370edf6701516b27252",
     "company": "Zone & Co",
@@ -899,10 +862,13 @@
     "companyDomain": "creditgenie.com",
     "role": "Martech/ Growth Engineer",
     "applyUrl": "https://go.landed.jobs/wqg8ms7",
-    "location": "New York City, NY · Philadelphia, PA",
+    "location": "New York City, NY +4",
     "locations": [
       "New York City, NY",
-      "Philadelphia, PA"
+      "Philadelphia, PA",
+      "Toronto, Canada",
+      "San Francisco, CA",
+      "Plymouth Meeting, PA"
     ],
     "remote": "",
     "region": "us",
@@ -1201,6 +1167,42 @@
     ]
   },
   {
+    "dedupeKey": "job:065aed16-a270-490d-ba8a-4142fe865ceb",
+    "companyId": "company_1a0a77df852aad6ad9d9f3a41af201de",
+    "company": "Marqeta",
+    "companyDomain": "marqeta.com",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/pnyavxj",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Clay",
+      "Apollo",
+      "Marketo",
+      "Salesforce",
+      "Demandbase",
+      "Gong",
+      "LLMs",
+      "prompt engineering",
+      "APIs",
+      "webhooks",
+      "JavaScript",
+      "Python"
+    ],
+    "posted": "2026-09-09T19:08:45.208Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.7B valuation",
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:20b74270-a9c7-4092-8991-891b97ee6698",
     "companyId": "company_4eb6beb7d046325446342c6144e66331",
     "company": "Fizz",
@@ -1313,34 +1315,6 @@
       "$5.3B valuation",
       "Series D"
     ]
-  },
-  {
-    "dedupeKey": "job:baea564d-51f2-4e3d-ba87-3751bc97bdfe",
-    "companyId": "company_054afa765294ad0ddd8307f8ce2eff0a",
-    "company": "Pogo",
-    "companyDomain": "joinpogo.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/ztcujpy",
-    "location": "🌐 Remote (US, Canada)",
-    "locations": [
-      "US",
-      "Canada"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "AI-powered systems",
-      "code that drives pipeline and conversion",
-      "professional software engineering",
-      "GTM",
-      "growth",
-      "revenue systems"
-    ],
-    "posted": "2026-09-01T11:51:01.252Z",
-    "companyTier": "U",
-    "companyBadges": []
   },
   {
     "dedupeKey": "job:b1af544f-5f22-483e-bcf1-0376503b3dcc",
@@ -1587,40 +1561,6 @@
     "companyBadges": [
       "$3.1B valuation",
       "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:4056b6a0-4a23-4689-b77a-0259f30a4c18",
-    "companyId": "company_8842abf0d006f028daac132ca06dd7cd",
-    "company": "Lotus",
-    "companyDomain": "lotushealth.ai",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/9fllrsj",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Python",
-      "JavaScript",
-      "experimentation frameworks",
-      "A/B testing",
-      "growth analytics",
-      "automation",
-      "data engineering",
-      "full stack development",
-      "user acquisition",
-      "growth loops",
-      "building internal tools"
-    ],
-    "posted": "2026-08-25T16:56:39.377Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
     ]
   },
   {
@@ -2352,9 +2292,9 @@
     "companyDomain": "nectarsocial.com",
     "role": "Founding GTM Engineer",
     "applyUrl": "https://go.landed.jobs/ocppot0",
-    "location": "Lahore, Pakistan",
+    "location": "Pakistan",
     "locations": [
-      "Lahore, Pakistan"
+      "Pakistan"
     ],
     "remote": "hybrid",
     "region": "world",
