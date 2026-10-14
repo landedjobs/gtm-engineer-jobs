@@ -1,5 +1,34 @@
 [
   {
+    "dedupeKey": "job:669f3a78-7de2-428d-973e-db99714dab26",
+    "companyId": "company_c06edf0d69882798c8f632f10609484d",
+    "company": "Cresta",
+    "companyDomain": "cresta.com",
+    "role": "Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/4wdy1f3",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "Webflow",
+      "large language models (LLMs)",
+      "prompt engineering",
+      "Technical SEO",
+      "AEO"
+    ],
+    "posted": "2026-10-12T17:20:44.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp EdTech 50",
+      "$1.6B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:cf264640-6e86-471b-b534-775515ed67b0",
     "companyId": "company_344f8b9378a0dae5084c72629d895e24",
     "company": "Forus",
@@ -746,12 +775,12 @@
     ]
   },
   {
-    "dedupeKey": "job:d7a179fd-9d0b-44e7-81b6-4d29cd7f51d4",
+    "dedupeKey": "job:807bacb0-ecc0-42d9-aa46-e7d906d4cea1",
     "companyId": "company_054afa765294ad0ddd8307f8ce2eff0a",
     "company": "Pogo",
     "companyDomain": "joinpogo.com",
     "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/sl0t6l0",
+    "applyUrl": "https://go.landed.jobs/zdnqvjv",
     "location": "🌐 Remote (US, Canada)",
     "locations": [
       "US",
@@ -765,40 +794,33 @@
       "building AI-powered systems",
       "shipping code"
     ],
-    "posted": "2026-10-10T12:15:11.945Z",
+    "posted": "2026-10-12T15:04:18.895Z",
     "companyTier": "U",
     "companyBadges": []
   },
   {
-    "dedupeKey": "job:d9503493-6d06-4f4b-a101-6199a198f07c",
-    "companyId": "company_23e1ffe657adeea713a51d98554adf45",
-    "company": "OmenAI",
-    "companyDomain": "omen.ai",
+    "dedupeKey": "job:427374e2-eda5-4d30-ab4e-9ed85b508f71",
+    "companyId": "company_7656fc7e16656344cfe74474e25b125b",
+    "company": "OpenGov Inc.",
+    "companyDomain": "opengov.com",
     "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/tyxb9dd",
-    "location": "San Francisco, CA",
+    "applyUrl": "https://go.landed.jobs/5esvc4v",
+    "location": "Chicago, IL",
     "locations": [
-      "San Francisco, CA"
+      "Chicago, IL"
     ],
     "remote": "",
     "region": "us",
     "family": "software_engineering",
     "level": "",
     "skills": [
-      "TypeScript",
-      "Next.js",
-      "Python",
-      "Postgres (Supabase)",
-      "Vercel",
-      "Claude Code",
-      "Codex",
-      "MCP servers"
+      "tool use",
+      "context engineering",
+      "evaluation frameworks"
     ],
-    "posted": "2026-10-06T15:44:27.000Z",
+    "posted": "2026-10-05T17:16:49.457Z",
     "companyTier": "C",
-    "companyBadges": [
-      "Seed"
-    ]
+    "companyBadges": []
   },
   {
     "dedupeKey": "job:bf3c826b-9bba-4a70-ada0-027dc25533c1",
@@ -1885,194 +1907,6 @@
     ]
   },
   {
-    "dedupeKey": "job:10bc0c68-9ede-4d1a-a524-55f874de1a89",
-    "companyId": "company_399c3d17288fb77e8c877af43742e279",
-    "company": "Mechanism Ventures",
-    "companyDomain": "mechanism.com",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/e1gfbwm",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [],
-    "posted": "2026-07-15T18:25:24.074Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:fff68810-6239-43e9-ac1d-0a15694445a0",
-    "companyId": "company_014caa3b6c6edf28f64f2e2e9365d13b",
-    "company": "Vultr",
-    "companyDomain": "vultr.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/vdyyc7z",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Clay",
-      "Salesforce",
-      "Make.com",
-      "n8n",
-      "Instantly",
-      "Smartlead",
-      "Lemlist",
-      "Salesloft",
-      "Outreach",
-      "LinkedIn Ads",
-      "Meta Ads",
-      "B2B sales copywriting"
-    ],
-    "posted": "2026-07-15T16:13:50.673Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$3.5B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:40ece705-77a6-43fe-a805-5fa920264810",
-    "companyId": "company_cec92763156f5045f885a8167f81c6d3",
-    "company": "Sanity",
-    "companyDomain": "sanity.io",
-    "role": "Senior GTM Engineer, Systems Engineering",
-    "applyUrl": "https://go.landed.jobs/q9j9ebn",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "building internal tools, workflow automation, data products, platform systems, or AI-powered applications",
-      "CRM, marketing automation, sales engagement, customer success, support, data warehouse, or business intelligence systems"
-    ],
-    "posted": "2026-07-14T14:15:06.860Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:09ff077a-88ba-4185-9868-247c2b1c033d",
-    "companyId": "company_9fb0402a72691f58285f6454a7b8d7e6",
-    "company": "AgentMail (YC S25)",
-    "companyDomain": "agentmail.to",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/f62quqp",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Python",
-      "TypeScript",
-      "SQL",
-      "APIs",
-      "webhooks",
-      "automation",
-      "PostHog",
-      "CRM",
-      "Clay",
-      "n8n",
-      "enrichment waterfalls",
-      "sending infrastructure"
-    ],
-    "posted": "2026-07-13T22:15:18.438Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S25",
-      "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:e3210e97-2739-4b9a-93a4-2c77a7865fae",
-    "companyId": "company_47b7fb5224c9e008721f93c1e18fce77",
-    "company": "Firecrawl",
-    "companyDomain": "firecrawl.dev",
-    "role": "Growth Engineer - Product Growth",
-    "applyUrl": "https://go.landed.jobs/6jft6jq",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "full-stack engineering",
-      "Next.js",
-      "React",
-      "Tailwind",
-      "TypeScript",
-      "Vercel",
-      "PostgreSQL",
-      "Anthropic Claude API",
-      "prompt engineering",
-      "tool use",
-      "inference pipelines",
-      "A/B tests"
-    ],
-    "posted": "2026-07-13T01:53:19.267Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S22",
-      "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:f07374f1-a307-4536-880d-899b8060e876",
-    "companyId": "company_47b7fb5224c9e008721f93c1e18fce77",
-    "company": "Firecrawl",
-    "companyDomain": "firecrawl.dev",
-    "role": "Senior Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/j6c85rx",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "full-stack engineering",
-      "Next.js",
-      "React",
-      "Tailwind",
-      "TypeScript",
-      "Vercel",
-      "PostgreSQL",
-      "Anthropic Claude API",
-      "prompt engineering",
-      "tool use",
-      "inference pipelines",
-      "A/B tests"
-    ],
-    "posted": "2026-07-13T01:37:23.063Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S22",
-      "Series A"
-    ]
-  },
-  {
     "dedupeKey": "job:11a7c0d2-e72e-48ad-8c15-874e9ba708df",
     "companyId": "company_8be1c7819c978dc3a4338983138af83a",
     "company": "Lovable",
@@ -2092,6 +1926,34 @@
       "APIs"
     ],
     "posted": "2026-10-07T21:49:07.382Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp AI 50",
+      "$13.3B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:2354ca3f-d8a5-4aa8-8414-6b14e747dda5",
+    "companyId": "company_8be1c7819c978dc3a4338983138af83a",
+    "company": "Lovable",
+    "companyDomain": "lovable.dev",
+    "role": "Marketing Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/mu1sgyb",
+    "location": "London, UK",
+    "locations": [
+      "London, UK"
+    ],
+    "remote": "",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "React",
+      "APIs",
+      "Meta Pixel",
+      "Google Ad Network APIs"
+    ],
+    "posted": "2026-10-02T17:26:54.119Z",
     "companyTier": "A",
     "companyBadges": [
       "TrueUp AI 50",
@@ -2319,7 +2181,7 @@
     "companyId": "company_006106f49fec9546725b8438ac9a1225",
     "company": "Vivid Money",
     "companyDomain": "vivid.money",
-    "role": "GTM Engineer",
+    "role": "GTM Engineer (m/f/d)",
     "applyUrl": "https://go.landed.jobs/5wiocpi",
     "location": "🌐 Remote",
     "locations": [
@@ -2706,37 +2568,6 @@
     "companyTier": "C",
     "companyBadges": [
       "Series B"
-    ]
-  },
-  {
-    "dedupeKey": "job:9d47ed01-3ca0-475e-b33a-40402ffa8aea",
-    "companyId": "company_2a0d876abcc98586feeb61e45e55013e",
-    "company": "Eight Sleep",
-    "companyDomain": "eightsleep.com",
-    "role": "Growth Engineer (Milan)",
-    "applyUrl": "https://go.landed.jobs/1p7wbpv",
-    "location": "Milan, Italy",
-    "locations": [
-      "Milan, Italy"
-    ],
-    "remote": "",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "React",
-      "Next.js",
-      "TypeScript",
-      "SEO/AEO",
-      "structured data",
-      "media-heavy sites and asset optimization",
-      "data privacy / consent requirements"
-    ],
-    "posted": "2026-07-15T07:24:07.604Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S15",
-      "$1.5B valuation"
     ]
   }
 ]
