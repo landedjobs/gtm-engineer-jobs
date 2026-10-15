@@ -775,6 +775,30 @@
     ]
   },
   {
+    "dedupeKey": "job:427374e2-eda5-4d30-ab4e-9ed85b508f71",
+    "companyId": "company_7656fc7e16656344cfe74474e25b125b",
+    "company": "OpenGov Inc.",
+    "companyDomain": "opengov.com",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/5esvc4v",
+    "location": "Chicago, IL",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "tool use",
+      "context engineering",
+      "evaluation frameworks"
+    ],
+    "posted": "2026-10-13T20:12:09.949Z",
+    "companyTier": "C",
+    "companyBadges": []
+  },
+  {
     "dedupeKey": "job:807bacb0-ecc0-42d9-aa46-e7d906d4cea1",
     "companyId": "company_054afa765294ad0ddd8307f8ce2eff0a",
     "company": "Pogo",
@@ -799,27 +823,36 @@
     "companyBadges": []
   },
   {
-    "dedupeKey": "job:427374e2-eda5-4d30-ab4e-9ed85b508f71",
-    "companyId": "company_7656fc7e16656344cfe74474e25b125b",
-    "company": "OpenGov Inc.",
-    "companyDomain": "opengov.com",
+    "dedupeKey": "job:50df718c-b1b5-4e9e-b238-eee62650cd27",
+    "companyId": "company_639fed44829947b1afad3ff671e216be",
+    "company": "BitSight",
+    "companyDomain": "bitsight.com",
     "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/5esvc4v",
-    "location": "Chicago, IL",
+    "applyUrl": "https://go.landed.jobs/tn73n6c",
+    "location": "Boston, MA",
     "locations": [
-      "Chicago, IL"
+      "Boston, MA"
     ],
     "remote": "",
     "region": "us",
     "family": "software_engineering",
-    "level": "",
+    "level": "mid",
     "skills": [
-      "tool use",
-      "context engineering",
-      "evaluation frameworks"
+      "SQL",
+      "Python",
+      "JavaScript/TypeScript",
+      "API and webhook",
+      "Salesforce",
+      "Clay",
+      "Workato",
+      "n8n",
+      "Zapier",
+      "Snowflake",
+      "Looker",
+      "LLM-powered or agentic workflows"
     ],
-    "posted": "2026-10-05T17:16:49.457Z",
-    "companyTier": "C",
+    "posted": "2026-10-09T00:00:00.000Z",
+    "companyTier": "U",
     "companyBadges": []
   },
   {
@@ -1485,39 +1518,6 @@
     ]
   },
   {
-    "dedupeKey": "job:50df718c-b1b5-4e9e-b238-eee62650cd27",
-    "companyId": "company_639fed44829947b1afad3ff671e216be",
-    "company": "BitSight",
-    "companyDomain": "bitsight.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/tn73n6c",
-    "location": "Boston, MA",
-    "locations": [
-      "Boston, MA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "SQL",
-      "Python",
-      "JavaScript/TypeScript",
-      "API and webhook",
-      "Salesforce",
-      "Clay",
-      "Workato",
-      "n8n",
-      "Zapier",
-      "Snowflake",
-      "Looker",
-      "LLM-powered or agentic workflows"
-    ],
-    "posted": "2026-08-27T00:00:00.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
     "dedupeKey": "job:d58dd1c6-abf9-4b4e-8606-0a2f357ceb3d",
     "companyId": "company_cc6e492923226f88479a6771d82552a2",
     "company": "Hiya Inc.",
@@ -1797,33 +1797,6 @@
     ]
   },
   {
-    "dedupeKey": "job:973c4e40-26c0-4d0a-b97a-7c8d6150e93a",
-    "companyId": "company_4086bce6105e3af40c9935cda5bebf4f",
-    "company": "Virio",
-    "companyDomain": "virio.ai",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/00yzpry",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "experimentation and analytics stack",
-      "growth data model",
-      "instrumentation",
-      "experimentation infrastructure",
-      "experimentation platform",
-      "growth data stack"
-    ],
-    "posted": "2026-07-29T03:01:54.915Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
     "dedupeKey": "job:66b251e2-be6e-4b53-b52a-293320b9ab47",
     "companyId": "company_6d8dababae0a0e59930a5f726f47bc29",
     "company": "Valency Systems Inc.",
@@ -1880,30 +1853,33 @@
     "companyBadges": []
   },
   {
-    "dedupeKey": "job:f80e3ed0-6aab-4a1b-8136-ff6568d05d21",
-    "companyId": "company_fa5f4f119cb60b748d096e4cafe91503",
-    "company": "Campfire",
-    "companyDomain": "campfire.ai",
-    "role": "Marketing Ops/AI GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/3axnfad",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:de348b25-73ea-4d24-a72a-b838e95ffa26",
+    "companyId": "company_2a0d876abcc98586feeb61e45e55013e",
+    "company": "Eight Sleep",
+    "companyDomain": "eightsleep.com",
+    "role": "Growth Engineer, (New Grad) Milan",
+    "applyUrl": "https://go.landed.jobs/6k3rvxs",
+    "location": "Milan, Italy",
     "locations": [
-      "San Francisco, CA"
+      "Milan, Italy"
     ],
     "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "mid",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "entry",
     "skills": [
-      "go",
-      "Salesforce",
-      "HubSpot"
+      "React",
+      "TypeScript",
+      "Next.js",
+      "SEO/AEO",
+      "structured data",
+      "internationalization/localization"
     ],
-    "posted": "2026-07-16T16:26:48.049Z",
-    "companyTier": "B",
+    "posted": "2026-10-09T14:35:42.349Z",
+    "companyTier": "A",
     "companyBadges": [
-      "YC S23",
-      "Series B"
+      "YC S15",
+      "$1.5B valuation"
     ]
   },
   {
