@@ -409,9 +409,42 @@
     ]
   },
   {
+    "dedupeKey": "job:e824b93b-0517-447c-9f04-9546f96609f1",
+    "companyId": "company_6e422a5bac0d84c608810bb2b69343b4",
+    "company": "Pump.co",
+    "companyDomain": "pump.co",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/cuj1rd3",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "Clay",
+      "Apollo",
+      "HubSpot",
+      "Python",
+      "JavaScript",
+      "APIs",
+      "webhooks",
+      "LLMs",
+      "AI agents",
+      "SQL"
+    ],
+    "posted": "2026-10-19T20:23:24.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC S22"
+    ]
+  },
+  {
     "dedupeKey": "job:4d9fbb65-4e62-4e28-9b42-ca4c9b9295b6",
     "companyId": "company_e30e56d309468ded6ff9d1fbc80ec130",
-    "company": "Search results | Find available job openings at GE HealthCare",
+    "company": "GE HealthCare",
     "companyDomain": "gehealthcare.com",
     "role": "Sales Enablement GTM Engineer",
     "applyUrl": "https://go.landed.jobs/1u6bu7d",
@@ -529,78 +562,25 @@
     ]
   },
   {
-    "dedupeKey": "job:8f7761b1-0d3f-4106-88cb-fd9867c3abca",
-    "companyId": "company_54fa32e30508136031070007f42317d0",
-    "company": "SentinelOne",
-    "companyDomain": "sentinelone.com",
-    "role": "Sr. GTM Engineer, Inbound",
-    "applyUrl": "https://go.landed.jobs/473lkwf",
-    "location": "🌐 Remote (US)",
+    "dedupeKey": "job:af52824c-9ab1-4c70-a9a9-aa09f1375d54",
+    "companyId": "company_054afa765294ad0ddd8307f8ce2eff0a",
+    "company": "Pogo",
+    "companyDomain": "joinpogo.com",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/cnqsp0p",
+    "location": "🌐 Remote (US, Canada)",
     "locations": [
-      "US"
+      "US",
+      "Canada"
     ],
     "remote": "remote",
     "region": "remote",
     "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "AI agents",
-      "chat agents",
-      "form-follow-up agents",
-      "lead-qualification agents",
-      "prompt architecture",
-      "agent frameworks",
-      "orchestration platforms",
-      "n8n",
-      "Make",
-      "API/MCP integrations",
-      "evaluation frameworks for AI systems"
-    ],
-    "posted": "2026-09-18T18:28:22.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$6.5B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:b7a327ce-078d-41bc-89e2-06ecdb9e5b59",
-    "companyId": "company_a4e07925a11111b3cb3498667168fd07",
-    "company": "Oyster®",
-    "companyDomain": "oysterhr.com",
-    "role": "Senior GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/cjwis8n",
-    "location": "🌐 Remote (Spain, Romania, Hungary +6)",
-    "locations": [
-      "Spain",
-      "Romania",
-      "Hungary",
-      "Portugal",
-      "Slovakia",
-      "Brazil",
-      "Poland",
-      "Colombia",
-      "Mexico"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "error handling",
-      "retries",
-      "idempotency",
-      "monitoring",
-      "alerting",
-      "AI/LLMs",
-      "prompt and context engineering"
-    ],
-    "posted": "2026-09-18T16:08:55.847Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.2B valuation",
-      "Series D"
-    ]
+    "level": "mid",
+    "skills": [],
+    "posted": "2026-10-19T12:18:24.913Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
     "dedupeKey": "job:6d9711fe-e4aa-4b29-9c30-e9b462159bcd",
@@ -681,30 +661,6 @@
     ],
     "posted": "2026-10-13T20:12:09.949Z",
     "companyTier": "C",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:807bacb0-ecc0-42d9-aa46-e7d906d4cea1",
-    "companyId": "company_054afa765294ad0ddd8307f8ce2eff0a",
-    "company": "Pogo",
-    "companyDomain": "joinpogo.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/zdnqvjv",
-    "location": "🌐 Remote (US, Canada)",
-    "locations": [
-      "US",
-      "Canada"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "building AI-powered systems",
-      "shipping code"
-    ],
-    "posted": "2026-10-12T15:04:18.895Z",
-    "companyTier": "U",
     "companyBadges": []
   },
   {
@@ -884,6 +840,80 @@
     "companyTier": "C",
     "companyBadges": [
       "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:8f7761b1-0d3f-4106-88cb-fd9867c3abca",
+    "companyId": "company_54fa32e30508136031070007f42317d0",
+    "company": "SentinelOne",
+    "companyDomain": "sentinelone.com",
+    "role": "Sr. GTM Engineer, Inbound",
+    "applyUrl": "https://go.landed.jobs/473lkwf",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "AI agents",
+      "chat agents",
+      "form-follow-up agents",
+      "lead-qualification agents",
+      "prompt architecture",
+      "agent frameworks",
+      "orchestration platforms",
+      "n8n",
+      "Make",
+      "API/MCP integrations",
+      "evaluation frameworks for AI systems"
+    ],
+    "posted": "2026-09-18T18:28:22.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$6.5B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:b7a327ce-078d-41bc-89e2-06ecdb9e5b59",
+    "companyId": "company_a4e07925a11111b3cb3498667168fd07",
+    "company": "Oyster®",
+    "companyDomain": "oysterhr.com",
+    "role": "Senior GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/cjwis8n",
+    "location": "🌐 Remote (Spain, Romania, Hungary +6)",
+    "locations": [
+      "Spain",
+      "Romania",
+      "Hungary",
+      "Portugal",
+      "Slovakia",
+      "Brazil",
+      "Poland",
+      "Colombia",
+      "Mexico"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "error handling",
+      "retries",
+      "idempotency",
+      "monitoring",
+      "alerting",
+      "AI/LLMs",
+      "prompt and context engineering"
+    ],
+    "posted": "2026-09-18T16:08:55.847Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.2B valuation",
+      "Series D"
     ]
   },
   {
@@ -2034,6 +2064,40 @@
     ]
   },
   {
+    "dedupeKey": "job:93c6789e-0bc3-4cc8-9b6f-b80b5e719ae6",
+    "companyId": "company_4ccd8fe9d01ea290ac7e531f26f9744c",
+    "company": "Incode",
+    "companyDomain": "incode.com",
+    "role": "Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/c3xz7hy",
+    "location": "🌐 Remote (Mexico)",
+    "locations": [
+      "Mexico"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "Python",
+      "Node",
+      "MCP servers",
+      "CI/CD",
+      "LLM agents",
+      "Salesforce",
+      "Supabase",
+      "Outreach",
+      "Postgres",
+      "Prompts and agent skills as code"
+    ],
+    "posted": "2026-10-19T19:38:23.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.3B valuation",
+      "Series B"
+    ]
+  },
+  {
     "dedupeKey": "job:9963733c-4255-414f-a912-8140ad13bf8f",
     "companyId": "company_1faf9b8a0e465b069c66a639e8a89b44",
     "company": "DataSnipper",
@@ -2579,35 +2643,6 @@
     "companyBadges": [
       "$1B valuation",
       "Series E"
-    ]
-  },
-  {
-    "dedupeKey": "job:c31111e5-5dd1-47bf-b8bf-d01cc74a4ae7",
-    "companyId": "company_2bb2972ff3148a04ddcd9b505b5aca6c",
-    "company": "Corti",
-    "companyDomain": "corti.ai",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/l6bu4hp",
-    "location": "Copenhagen, Denmark",
-    "locations": [
-      "Copenhagen, Denmark"
-    ],
-    "remote": "hybrid",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "HubSpot",
-      "Salesforce",
-      "Pipedrive",
-      "ETL processes",
-      "data synchronization",
-      "workflow automation"
-    ],
-    "posted": "2026-07-21T14:43:38.315Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series B"
     ]
   }
 ]
