@@ -317,31 +317,29 @@
     ]
   },
   {
-    "dedupeKey": "job:5ef42884-337d-478c-81ed-407f06549597",
-    "companyId": "company_c5567c52445bb59cc60aaa1320fddbc7",
-    "company": "Applied Compute",
-    "companyDomain": "appliedcompute.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/td89ctc",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:e976c76b-a4b1-4a6e-a219-ced01f1935bf",
+    "companyId": "company_4f814c75bf30a0cc63f884411481449c",
+    "company": "Notion",
+    "companyDomain": "notion.com",
+    "role": "Ecosystem Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/m12u4un",
+    "location": "New York City, NY",
     "locations": [
-      "San Francisco, CA"
+      "New York City, NY"
     ],
-    "remote": "",
+    "remote": "hybrid",
     "region": "us",
     "family": "software_engineering",
     "level": "",
     "skills": [
-      "software engineer",
-      "machine learning engineer",
-      "building reliable software and LLM automations",
-      "leading technical discovery and scoping"
+      "Salesforce",
+      "Customer.io"
     ],
-    "posted": "2026-09-22T03:07:45.231Z",
-    "companyTier": "A",
+    "posted": "2026-10-21T18:45:02.761Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Hot 200",
-      "$1.3B valuation"
+      "$11B valuation",
+      "Series C"
     ]
   },
   {
@@ -469,12 +467,12 @@
     ]
   },
   {
-    "dedupeKey": "job:f08443ce-a18b-4e58-9ed2-08f27814c5c1",
+    "dedupeKey": "job:959cf40a-8e71-4899-b35d-9b2c6f2a012a",
     "companyId": "company_054afa765294ad0ddd8307f8ce2eff0a",
     "company": "Pogo",
     "companyDomain": "joinpogo.com",
     "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/0yf9d32",
+    "applyUrl": "https://go.landed.jobs/t0tiw92",
     "location": "🌐 Remote (US, Canada)",
     "locations": [
       "US",
@@ -485,12 +483,44 @@
     "family": "software_engineering",
     "level": "mid",
     "skills": [
-      "software engineering",
-      "building your own products"
+      "shipping code"
     ],
-    "posted": "2026-10-21T12:12:41.142Z",
+    "posted": "2026-10-22T12:22:42.410Z",
     "companyTier": "U",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:6056ae6e-d752-44a5-866f-ac7d8dbfc4bc",
+    "companyId": "company_320048e86629f2f3b5e6c8495d702a22",
+    "company": "Wordsmith AI",
+    "companyDomain": "wordsmith.ai",
+    "role": "Senior GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/k52p5p2",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "APIs",
+      "webhooks",
+      "AI coding tools",
+      "CRM",
+      "marketing automation",
+      "reverse ETL",
+      "data warehouse"
+    ],
+    "posted": "2026-10-21T16:15:23.731Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
+    ]
   },
   {
     "dedupeKey": "job:6d9711fe-e4aa-4b29-9c30-e9b462159bcd",
@@ -761,7 +791,7 @@
     "applyUrl": "https://go.landed.jobs/99idshh",
     "location": "🌐 Remote (US)",
     "locations": [
-      "New York City, NY"
+      "US"
     ],
     "remote": "remote",
     "region": "remote",
@@ -905,32 +935,6 @@
     "companyBadges": [
       "YC W24",
       "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:c04753c5-161e-4b31-8ed3-5e9f14122724",
-    "companyId": "company_8fef6ebb79a655e286e7614c0715e6f1",
-    "company": "Unbound",
-    "companyDomain": "getunbound.ai",
-    "role": "Founding growth engineer",
-    "applyUrl": "https://go.landed.jobs/rtsaol4",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "Clay, Zapier, Hubspot automations",
-      "AI workflows"
-    ],
-    "posted": "2026-09-18T06:06:52.114Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S24",
-      "Seed"
     ]
   },
   {
@@ -1400,76 +1404,6 @@
     ]
   },
   {
-    "dedupeKey": "job:fe5e5318-0598-467f-8d19-0da0376fc3ab",
-    "companyId": "company_9b878f9baa905a12f9fc76a14cc356a0",
-    "company": "RunwayML",
-    "companyDomain": "runwayml.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/xushjjn",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York City, NY",
-      "Seattle, WA",
-      "San Francisco, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Python",
-      "SQL",
-      "APIs",
-      "agentic workflows",
-      "Salesforce",
-      "Gong",
-      "Clay",
-      "webhooks",
-      "data warehouses",
-      "BI tools",
-      "event-driven systems"
-    ],
-    "posted": "2026-09-01T22:13:24.541Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$5.3B valuation",
-      "Series D"
-    ]
-  },
-  {
-    "dedupeKey": "job:b1af544f-5f22-483e-bcf1-0376503b3dcc",
-    "companyId": "company_72b1261e6e83a25464808432b6170584",
-    "company": "EliseAI",
-    "companyDomain": "eliseai.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/5nc0jc2",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "vibe-coding",
-      "low-code/no-code tools (e.g. Zapier, Clay, Gong, Attention)",
-      "APIs and webhooks",
-      "AI systems",
-      "Salesforce",
-      "HubSpot",
-      "Gong",
-      "Attention",
-      "Outreach"
-    ],
-    "posted": "2026-08-31T21:38:44.156Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Real Estate Tech 50",
-      "$2.2B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:0b28995e-3858-4580-b6da-6b813e732472",
     "companyId": "company_dce40a21252f1457bbd8496f616220f2",
     "company": "Clay",
@@ -1712,36 +1646,6 @@
     "companyBadges": [
       "TrueUp ClimateTech 50",
       "$1B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:2a79b75c-ecb5-42c5-a0f1-5a71d2f19c76",
-    "companyId": "company_d151b464563d2d264a3f44b4c7a0c837",
-    "company": "Expo",
-    "companyDomain": "expo.dev",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/sb2vye5",
-    "location": "🌐 Remote (Canada, US)",
-    "locations": [
-      "Canada",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "LLM APIs (Claude, OpenAI)",
-      "AI coding assistants (Claude Code, Cursor, Codex)",
-      "LLM APIs and agents (prompting, tool use, evals)",
-      "HubSpot workflows, data model, and APIs",
-      "MCP or agent SDK experience (Claude Agent SDK or similar)",
-      "Data warehouse modeling (BigQuery, dbt)"
-    ],
-    "posted": "2026-08-06T19:47:55.224Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series B"
     ]
   },
   {
@@ -2044,11 +1948,153 @@
     ]
   },
   {
+    "dedupeKey": "job:15cd38f7-cbf8-495b-a467-2ca5df67024e",
+    "companyId": "company_f034ceb76777e31b6a6656a3763e9f60",
+    "company": "Showpad",
+    "companyDomain": "showpad.com",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/rpckhh9",
+    "location": "Pune, India",
+    "locations": [
+      "Pune, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "REST APIs",
+      "AWS",
+      "AWS Lambda",
+      "AWS Step Functions",
+      "Amazon EventBridge",
+      "Amazon Bedrock",
+      "Zapier",
+      "n8n",
+      "Workato",
+      "Make",
+      "Tray.io",
+      "MCP"
+    ],
+    "posted": "2026-10-23T23:45:18.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:e4f95477-5a77-41b3-a2f8-255228aea01d",
+    "companyId": "company_3f323e4acb50cdccc3b72218599463b3",
+    "company": "Gorgias",
+    "companyDomain": "gorgias.com",
+    "role": "GTM Engineer - Growth",
+    "applyUrl": "https://go.landed.jobs/gcgrlgy",
+    "location": "Toronto, Canada",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "remote": "",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "SQL",
+      "Python",
+      "JavaScript",
+      "REST APIs",
+      "BigQuery",
+      "dbt",
+      "Segment",
+      "Airbyte",
+      "Hightouch",
+      "n8n",
+      "Clay"
+    ],
+    "posted": "2026-10-23T16:25:26.631Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "$710M valuation",
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:d8263b13-0786-449d-b469-2f9c703c8bb3",
+    "companyId": "company_3f323e4acb50cdccc3b72218599463b3",
+    "company": "Gorgias",
+    "companyDomain": "gorgias.com",
+    "role": "GTM Engineer - Growth",
+    "applyUrl": "https://go.landed.jobs/4c0bpfr",
+    "location": "Belgrade, Serbia",
+    "locations": [
+      "Belgrade, Serbia"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "AI agents",
+      "Cargo",
+      "HubSpot",
+      "Cortex",
+      "LLM applications",
+      "prompt design",
+      "tool or function calling",
+      "SQL",
+      "Python",
+      "JavaScript",
+      "REST APIs",
+      "n8n"
+    ],
+    "posted": "2026-10-23T16:24:37.034Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "$710M valuation",
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:1c9ef06c-7770-469e-b4d4-da1dedd2b55f",
+    "companyId": "company_3f323e4acb50cdccc3b72218599463b3",
+    "company": "Gorgias",
+    "companyDomain": "gorgias.com",
+    "role": "GTM Engineer - Growth",
+    "applyUrl": "https://go.landed.jobs/rbs9mtb",
+    "location": "Paris, France",
+    "locations": [
+      "Paris, France"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "Claude Code",
+      "Conductor",
+      "LLM applications",
+      "prompt design",
+      "tool or function calling",
+      "BigQuery",
+      "dbt",
+      "Segment",
+      "Airbyte",
+      "Hightouch",
+      "SQL",
+      "Python"
+    ],
+    "posted": "2026-10-23T16:22:59.201Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "$710M valuation",
+      "Series C"
+    ]
+  },
+  {
     "dedupeKey": "job:6e3493b6-e139-4b95-87d8-61f2fcdc77bd",
     "companyId": "company_e8d1dbd03395e33d062490442f60f95e",
     "company": "ComplyAdvantage",
     "companyDomain": "complyadvantage.com",
-    "role": "GTM Engineer",
+    "role": "Founding GTM Engineer",
     "applyUrl": "https://go.landed.jobs/qx38ur9",
     "location": "London, UK",
     "locations": [
@@ -2095,30 +2141,6 @@
     "companyBadges": [
       "Series C"
     ]
-  },
-  {
-    "dedupeKey": "job:0ab33dc6-dc37-4c30-b4ae-2dd5af7c5e6d",
-    "companyId": "company_907c0fd769249043d6403971a3f637bd",
-    "company": "Synder",
-    "companyDomain": "synder.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/rqws4es",
-    "location": "🌐 Remote",
-    "locations": [],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "HubSpot",
-      "Clay",
-      "Lemlist",
-      "Aircall",
-      "GTM automation"
-    ],
-    "posted": "2026-10-20T00:00:00.000Z",
-    "companyTier": "U",
-    "companyBadges": []
   },
   {
     "dedupeKey": "job:7b2c3fc7-6eb3-4286-b2ef-a16c749aa293",
