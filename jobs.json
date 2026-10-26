@@ -1710,62 +1710,6 @@
     ]
   },
   {
-    "dedupeKey": "job:66b251e2-be6e-4b53-b52a-293320b9ab47",
-    "companyId": "company_6d8dababae0a0e59930a5f726f47bc29",
-    "company": "Valency Systems Inc.",
-    "companyDomain": "valency.io",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/ptkzbzq",
-    "location": "Berkeley, CA",
-    "locations": [
-      "Berkeley, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "",
-    "skills": [
-      "Python",
-      "TypeScript",
-      "API-first",
-      "MCP (Model Context Protocol)",
-      "Attio",
-      "GitHub",
-      "Discord"
-    ],
-    "posted": "2026-07-27T22:33:01.703Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:8d33ae4a-0e64-4997-a43e-101b68514c93",
-    "companyId": "company_a3a52f19b03c26e68e03090f49b6d9e5",
-    "company": "Embedding VC",
-    "companyDomain": "embedding.vc",
-    "role": "Growth Engineer - Globalization",
-    "applyUrl": "https://go.landed.jobs/nqvtvj3",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "React",
-      "TypeScript",
-      "Next.js",
-      "i18n",
-      "localization",
-      "multilingual SEO",
-      "programmatic SEO"
-    ],
-    "posted": "2026-07-27T06:59:46.445Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
     "dedupeKey": "job:de348b25-73ea-4d24-a72a-b838e95ffa26",
     "companyId": "company_2a0d876abcc98586feeb61e45e55013e",
     "company": "Eight Sleep",
