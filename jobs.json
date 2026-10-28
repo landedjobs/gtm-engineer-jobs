@@ -317,11 +317,111 @@
     ]
   },
   {
+    "dedupeKey": "job:d924d05b-402c-461b-a24e-436b0510e018",
+    "companyId": "company_13cf29d2f94b818512402c72ebc17aa4",
+    "company": "Middesk",
+    "companyDomain": "middesk.com",
+    "role": "Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/csotcso",
+    "location": "San Francisco, CA · New York City, NY",
+    "locations": [
+      "San Francisco, CA",
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "Strong frontend skills",
+      "A/B testing frameworks",
+      "funnel analytics",
+      "SEO",
+      "AI search (AEO)"
+    ],
+    "posted": "2026-10-27T20:06:13.420Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC W19",
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:a82baca3-da52-40ba-8593-51ac47c35574",
+    "companyId": "company_835561dbc345972632ad19760d0c6f03",
+    "company": "Ello",
+    "companyDomain": "ello.com",
+    "role": "Lead Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/3e1kzwn",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Flutter",
+      "React",
+      "Python",
+      "SQL",
+      "Mixpanel",
+      "Amplitude",
+      "Segment",
+      "Stripe",
+      "Twilio",
+      "SendGrid"
+    ],
+    "posted": "2026-10-27T00:43:34.868Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC W20",
+      "Series A"
+    ]
+  },
+  {
+    "dedupeKey": "job:4526cb7e-65db-4925-a073-94e98eb9c82a",
+    "companyId": "company_6fa52ff2c6794f70b0789db39a272e2f",
+    "company": "Greenboard",
+    "companyDomain": "greenboard.com",
+    "role": "Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/imlqkjy",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "HubSpot",
+      "SQL",
+      "Python",
+      "JavaScript",
+      "dbt",
+      "Snowflake",
+      "BigQuery",
+      "Postgres",
+      "reverse ETL tooling",
+      "Looker",
+      "Metabase",
+      "LLM APIs"
+    ],
+    "posted": "2026-10-26T16:42:44.394Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC W24",
+      "Series A"
+    ]
+  },
+  {
     "dedupeKey": "job:e976c76b-a4b1-4a6e-a219-ced01f1935bf",
     "companyId": "company_4f814c75bf30a0cc63f884411481449c",
     "company": "Notion",
     "companyDomain": "notion.com",
-    "role": "Ecosystem Growth Engineer",
+    "role": "Growth Engineer, Startups & SMBs",
     "applyUrl": "https://go.landed.jobs/m12u4un",
     "location": "New York City, NY",
     "locations": [
@@ -851,7 +951,7 @@
     "companyId": "company_a4e07925a11111b3cb3498667168fd07",
     "company": "Oyster®",
     "companyDomain": "oysterhr.com",
-    "role": "Senior GTM Engineer",
+    "role": "Senior Go-to-Market Engineer",
     "applyUrl": "https://go.landed.jobs/cjwis8n",
     "location": "🌐 Remote (Spain, Romania, Hungary +6)",
     "locations": [
@@ -1892,6 +1992,32 @@
     ]
   },
   {
+    "dedupeKey": "job:c45f80fb-550f-4c27-a119-6929f0c71c2a",
+    "companyId": "company_be981feee1eed11288f7bd22e9c51cb5",
+    "company": "viktor.com",
+    "companyDomain": "getviktor.com",
+    "role": "Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/2i5xcb5",
+    "location": "🌐 Remote (Poland, Germany)",
+    "locations": [
+      "Warsaw, Poland",
+      "Munich, Germany"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "A/B tests",
+      "agentic coding"
+    ],
+    "posted": "2026-10-26T16:21:15.125Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
+  },
+  {
     "dedupeKey": "job:15cd38f7-cbf8-495b-a467-2ca5df67024e",
     "companyId": "company_f034ceb76777e31b6a6656a3763e9f60",
     "company": "Showpad",
@@ -2498,34 +2624,5 @@
     "posted": "2026-08-16T07:44:13.000Z",
     "companyTier": "U",
     "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:dbd79c92-23f3-4a20-8931-2b21632b5051",
-    "companyId": "company_bb9d4a3360e6cac990148593b7439f32",
-    "company": "Halter",
-    "companyDomain": "halterhq.com",
-    "role": "Growth Engineer (Website)",
-    "applyUrl": "https://go.landed.jobs/aq81cxj",
-    "location": "Auckland, New Zealand",
-    "locations": [
-      "Auckland, New Zealand"
-    ],
-    "remote": "",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Webflow",
-      "React/Next.js",
-      "TypeScript",
-      "HTML/CSS",
-      "headless CMS"
-    ],
-    "posted": "2026-07-28T09:53:07.570Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$1B valuation",
-      "Series E"
-    ]
   }
 ]
