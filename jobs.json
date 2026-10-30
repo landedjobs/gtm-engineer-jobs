@@ -317,6 +317,95 @@
     ]
   },
   {
+    "dedupeKey": "job:73c902fd-9870-4052-92d5-5eceb2d3195c",
+    "companyId": "company_73dbf2144f935b2d6f59bafdaef84954",
+    "company": "G2",
+    "companyDomain": "g2.com",
+    "role": "Associate GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/5xdy1b7",
+    "location": "Chicago, IL",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "Salesforce",
+      "Snowflake",
+      "Looker"
+    ],
+    "posted": "2026-10-28T14:32:21.352Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.1B valuation",
+      "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:139f02af-fd85-467f-af3b-fcde46cb7498",
+    "companyId": "company_1ddbc07f5798db9560890bb37766e1c9",
+    "company": "Circleback",
+    "companyDomain": "circleback.ai",
+    "role": "Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/00a8npn",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "React",
+      "Next.js",
+      "Prisma",
+      "SWR",
+      "Electron",
+      "Swift",
+      "React Native"
+    ],
+    "posted": "2026-10-28T00:44:28.274Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC W24",
+      "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:7b61a0dc-b7b7-403a-9cc0-69f8fa34cdcc",
+    "companyId": "company_1ddbc07f5798db9560890bb37766e1c9",
+    "company": "Circleback",
+    "companyDomain": "circleback.ai",
+    "role": "Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/igy03ut",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "React",
+      "Next.js",
+      "Prisma",
+      "SWR",
+      "Electron",
+      "Swift",
+      "React Native"
+    ],
+    "posted": "2026-10-27T21:32:45.880Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC W24",
+      "Seed"
+    ]
+  },
+  {
     "dedupeKey": "job:d924d05b-402c-461b-a24e-436b0510e018",
     "companyId": "company_13cf29d2f94b818512402c72ebc17aa4",
     "company": "Middesk",
@@ -567,6 +656,68 @@
     ]
   },
   {
+    "dedupeKey": "job:b4444445-7c1c-4881-a61d-d3234f81ec77",
+    "companyId": "company_ce6eb3fde88785ee599b6f85a9b475a3",
+    "company": "Freed",
+    "companyDomain": "getfreed.ai",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/7vh4i3s",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "AI coding agents",
+      "HubSpot",
+      "Stripe",
+      "Customer.io",
+      "Intercom",
+      "n8n",
+      "SQL",
+      "CRM like HubSpot or Salesforce",
+      "Zapier",
+      "dbt"
+    ],
+    "posted": "2026-10-28T19:17:16.431Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
+  },
+  {
+    "dedupeKey": "job:7b2c3fc7-6eb3-4286-b2ef-a16c749aa293",
+    "companyId": "company_cddf6126578003dda73cc25f2558d8d3",
+    "company": "Nectar Social",
+    "companyDomain": "nectarsocial.com",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/ocppot0",
+    "location": "Palo Alto, CA",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "Claude Code",
+      "Cursor",
+      "Clay",
+      "n8n",
+      "Gong",
+      "Salesforce"
+    ],
+    "posted": "2026-10-27T17:28:56.125Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
+  },
+  {
     "dedupeKey": "job:959cf40a-8e71-4899-b35d-9b2c6f2a012a",
     "companyId": "company_054afa765294ad0ddd8307f8ce2eff0a",
     "company": "Pogo",
@@ -621,6 +772,39 @@
     "companyBadges": [
       "Series B"
     ]
+  },
+  {
+    "dedupeKey": "job:50df718c-b1b5-4e9e-b238-eee62650cd27",
+    "companyId": "company_639fed44829947b1afad3ff671e216be",
+    "company": "BitSight",
+    "companyDomain": "bitsight.com",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/tn73n6c",
+    "location": "Boston, MA",
+    "locations": [
+      "Boston, MA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "SQL",
+      "Python",
+      "JavaScript/TypeScript",
+      "API and webhook",
+      "Salesforce",
+      "Clay",
+      "Workato",
+      "n8n",
+      "Zapier",
+      "Snowflake",
+      "Looker",
+      "LLM-powered or agentic workflows"
+    ],
+    "posted": "2026-10-21T00:00:00.000Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
     "dedupeKey": "job:6d9711fe-e4aa-4b29-9c30-e9b462159bcd",
@@ -701,39 +885,6 @@
     ],
     "posted": "2026-10-13T20:12:09.949Z",
     "companyTier": "C",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:50df718c-b1b5-4e9e-b238-eee62650cd27",
-    "companyId": "company_639fed44829947b1afad3ff671e216be",
-    "company": "BitSight",
-    "companyDomain": "bitsight.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/tn73n6c",
-    "location": "Boston, MA",
-    "locations": [
-      "Boston, MA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "SQL",
-      "Python",
-      "JavaScript/TypeScript",
-      "API and webhook",
-      "Salesforce",
-      "Clay",
-      "Workato",
-      "n8n",
-      "Zapier",
-      "Snowflake",
-      "Looker",
-      "LLM-powered or agentic workflows"
-    ],
-    "posted": "2026-10-09T00:00:00.000Z",
-    "companyTier": "U",
     "companyBadges": []
   },
   {
@@ -1334,7 +1485,9 @@
     ],
     "posted": "2026-09-11T21:00:43.382Z",
     "companyTier": "C",
-    "companyBadges": []
+    "companyBadges": [
+      "Seed"
+    ]
   },
   {
     "dedupeKey": "job:c28ceb75-4ce0-4427-b8af-21212368b5f3",
@@ -1781,35 +1934,6 @@
     ]
   },
   {
-    "dedupeKey": "job:64cb6c44-783a-4f52-9c8e-50727ceb81ef",
-    "companyId": "company_d57f521980a39128b7e3f1c628e4459b",
-    "company": "Peregrine",
-    "companyDomain": "peregrine.io",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/d4427zw",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "front-end solutions",
-      "Hubspot",
-      "GTA",
-      "web personalization tools",
-      "Git"
-    ],
-    "posted": "2026-08-04T16:10:10.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$6.8B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:de348b25-73ea-4d24-a72a-b838e95ffa26",
     "companyId": "company_2a0d876abcc98586feeb61e45e55013e",
     "company": "Eight Sleep",
@@ -1990,6 +2114,131 @@
       "$1B valuation",
       "Series B"
     ]
+  },
+  {
+    "dedupeKey": "job:f271be8c-5b04-4996-9cc9-7d53d2160d79",
+    "companyId": "company_13bf161b538ee0d84abc26208732897e",
+    "company": "Truelogic Software",
+    "companyDomain": "truelogic.io",
+    "role": "Senior Full-Stack Growth Engineer - Marketing & Analytics",
+    "applyUrl": "https://go.landed.jobs/uxaxapd",
+    "location": "🌐 Remote (Uruguay)",
+    "locations": [
+      "Uruguay"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "GraphQL",
+      "observability",
+      "Python",
+      "SQL"
+    ],
+    "posted": "2026-10-27T15:55:16.352Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:357f6416-de4c-4bd1-b3a9-498f2da2073a",
+    "companyId": "company_13bf161b538ee0d84abc26208732897e",
+    "company": "Truelogic Software",
+    "companyDomain": "truelogic.io",
+    "role": "Senior Full-Stack Growth Engineer - Marketing & Analytics",
+    "applyUrl": "https://go.landed.jobs/wowel93",
+    "location": "🌐 Remote (Brazil)",
+    "locations": [
+      "São Paulo, Brazil"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "GraphQL",
+      "observability",
+      "Python",
+      "SQL"
+    ],
+    "posted": "2026-10-27T15:54:54.189Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:8383db07-79ea-42eb-a912-1809fd6d7ca4",
+    "companyId": "company_13bf161b538ee0d84abc26208732897e",
+    "company": "Truelogic Software",
+    "companyDomain": "truelogic.io",
+    "role": "Senior Full-Stack Growth Engineer - Marketing & Analytics",
+    "applyUrl": "https://go.landed.jobs/vyrf4hv",
+    "location": "🌐 Remote (Dominican Republic)",
+    "locations": [
+      "Santo Domingo, Dominican Republic"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "GraphQL",
+      "observability",
+      "Python",
+      "SQL"
+    ],
+    "posted": "2026-10-27T15:54:37.207Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:9539a3e4-0921-40a8-a144-82096bb484df",
+    "companyId": "company_13bf161b538ee0d84abc26208732897e",
+    "company": "Truelogic Software",
+    "companyDomain": "truelogic.io",
+    "role": "Senior Full-Stack Growth Engineer - Marketing & Analytics",
+    "applyUrl": "https://go.landed.jobs/1eugco7",
+    "location": "🌐 Remote (Peru)",
+    "locations": [
+      "Peru"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "GraphQL",
+      "observability",
+      "Python",
+      "SQL"
+    ],
+    "posted": "2026-10-27T15:54:19.373Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:f1fe5321-4ccc-4c77-85e1-e10f993138bd",
+    "companyId": "company_13bf161b538ee0d84abc26208732897e",
+    "company": "Truelogic Software",
+    "companyDomain": "truelogic.io",
+    "role": "Senior Full-Stack Growth Engineer - Marketing & Analytics",
+    "applyUrl": "https://go.landed.jobs/bv1ou3d",
+    "location": "🌐 Remote (Panama)",
+    "locations": [
+      "Panama"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "GraphQL",
+      "observability",
+      "Python",
+      "SQL"
+    ],
+    "posted": "2026-10-27T15:53:59.905Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
     "dedupeKey": "job:c45f80fb-550f-4c27-a119-6929f0c71c2a",
@@ -2210,35 +2459,6 @@
     "companyTier": "C",
     "companyBadges": [
       "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:7b2c3fc7-6eb3-4286-b2ef-a16c749aa293",
-    "companyId": "company_cddf6126578003dda73cc25f2558d8d3",
-    "company": "Nectar Social",
-    "companyDomain": "nectarsocial.com",
-    "role": "Founding GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/ocppot0",
-    "location": "Pakistan",
-    "locations": [
-      "Pakistan"
-    ],
-    "remote": "hybrid",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Claude Code",
-      "Cursor",
-      "Clay",
-      "n8n",
-      "Gong",
-      "Salesforce"
-    ],
-    "posted": "2026-10-07T15:12:20.843Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
     ]
   },
   {
