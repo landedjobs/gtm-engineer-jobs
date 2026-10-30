@@ -656,6 +656,41 @@
     ]
   },
   {
+    "dedupeKey": "job:c257adbc-40db-4e58-bf72-ddff4fe3f585",
+    "companyId": "company_b30d876b7b70f73b0677635b8419c980",
+    "company": "Vantage",
+    "companyDomain": "vantage.sh",
+    "role": "Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/q1vvyuw",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "APIs",
+      "webhooks",
+      "data integrations",
+      "automation platforms",
+      "Salesforce",
+      "HubSpot",
+      "SQL",
+      "data pipelines",
+      "analytics platforms",
+      "CRM data models"
+    ],
+    "posted": "2026-10-29T20:32:06.086Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
+  },
+  {
     "dedupeKey": "job:b4444445-7c1c-4881-a61d-d3234f81ec77",
     "companyId": "company_ce6eb3fde88785ee599b6f85a9b475a3",
     "company": "Freed",
