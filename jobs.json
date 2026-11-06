@@ -1,5 +1,37 @@
 [
   {
+    "dedupeKey": "job:926bc6cd-40f6-4b03-9df2-2a6ce18f07ea",
+    "companyId": "company_cf0f4f756728eba78dd85d7cf3358e9d",
+    "company": "Perplexity",
+    "companyDomain": "perplexity.ai",
+    "role": "Member of Technical Staff (GTM Engineer, Growth)",
+    "applyUrl": "https://go.landed.jobs/81s5dq2",
+    "location": "San Francisco, CA · New York City, NY",
+    "locations": [
+      "San Francisco, CA",
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [
+      "TypeScript/React",
+      "Python",
+      "SQL",
+      "Snowflake",
+      "dbt",
+      "REST APIs",
+      "webhooks"
+    ],
+    "posted": "2026-11-04T01:02:06.380Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$18B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:d303cf44-3be5-4a7d-8d19-11daccfba2d9",
     "companyId": "company_9baad27eab20fb984b38823e527a6024",
     "company": "Vercel",
@@ -78,6 +110,102 @@
     "companyBadges": [
       "$1B valuation",
       "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:38fb45a6-b83e-4eb1-9451-1fa2b3a31bfc",
+    "companyId": "company_d25d265deba46773f40a5346772fdee1",
+    "company": "Krea",
+    "companyDomain": "krea.ai",
+    "role": "Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/m8h4c58",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "SvelteKit",
+      "TypeScript",
+      "ClickHouse",
+      "Postgres",
+      "SQL",
+      "Stripe"
+    ],
+    "posted": "2026-11-05T22:32:57.055Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$500M valuation",
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:75cf773e-efe4-47ed-b31d-5771b8c3ac10",
+    "companyId": "company_568c1b71fbb15c1033a1b0269eaf0028",
+    "company": "Productboard",
+    "companyDomain": "productboard.com",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/zdx3kc8",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "AI tools",
+      "Clay",
+      "Piper/Qualified",
+      "Gong",
+      "Salesforce Agentforce",
+      "Zapier",
+      "Workato",
+      "n8n",
+      "Python",
+      "SQL",
+      "REST",
+      "AWS"
+    ],
+    "posted": "2026-11-03T20:01:48.231Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.7B valuation",
+      "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:da2186f6-6cf2-429c-b033-acc60daf84c5",
+    "companyId": "company_43c90a997315894791a6705b48a10f89",
+    "company": "Poka Labs",
+    "companyDomain": "pokalabs.com",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/cvq9q9z",
+    "location": "🌐 Remote (Canada, US)",
+    "locations": [
+      "Canada",
+      "Québec, Canada",
+      "Montréal, Canada",
+      "Arizona, AZ"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "LLMs and AI agents in production",
+      "GTM tools such as HubSpot, Clay, Gong or 6sense",
+      "automation platforms such as Zapier, Make, n8n or Workato"
+    ],
+    "posted": "2026-11-03T16:12:28.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC S24",
+      "Seed"
     ]
   },
   {
@@ -356,67 +484,29 @@
     ]
   },
   {
-    "dedupeKey": "job:4d9fbb65-4e62-4e28-9b42-ca4c9b9295b6",
-    "companyId": "company_e30e56d309468ded6ff9d1fbc80ec130",
-    "company": "GE HealthCare",
-    "companyDomain": "gehealthcare.com",
-    "role": "Sales Enablement GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/1u6bu7d",
-    "location": "Waukesha, WI · Chicago, IL",
-    "locations": [
-      "Waukesha, WI",
-      "Chicago, IL"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Salesforce",
-      "MuleSoft",
-      "Agentic AI",
-      "Apex",
-      "Flow",
-      "Python",
-      "REST Query API",
-      "Agentforce script",
-      "Lightning Actions",
-      "HXL",
-      "Model Context Protocol (MCP)",
-      "JavaScript"
-    ],
-    "posted": "2026-10-07T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:7a447e15-a965-4263-b8c5-ba804db05493",
-    "companyId": "company_4e3c4ab81d1eec416ce38e52ff3ef54d",
-    "company": "Wispr Flow",
-    "companyDomain": "wisprflow.ai",
+    "dedupeKey": "job:34a6e01f-542b-4d3a-83d5-b081ebc4b00e",
+    "companyId": "company_681b3185fe72de9af9a47af1b5539e58",
+    "company": "Discern",
+    "companyDomain": "discern.com",
     "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/pe0831z",
-    "location": "San Francisco, CA",
+    "applyUrl": "https://go.landed.jobs/h0i156d",
+    "location": "🌐 Remote (US)",
     "locations": [
-      "San Francisco, CA"
+      "US"
     ],
-    "remote": "",
-    "region": "us",
+    "remote": "remote",
+    "region": "remote",
     "family": "software_engineering",
     "level": "senior",
     "skills": [
-      "Salesforce",
-      "ClickHouse",
-      "AI"
+      "deliverability",
+      "running outbound at volume",
+      "public records",
+      "AI-powered workflows"
     ],
-    "posted": "2026-10-05T19:22:42.455Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$700M valuation",
-      "Series A"
-    ]
+    "posted": "2026-11-04T19:09:45.336Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
     "dedupeKey": "job:5c776b9c-7954-41c0-897c-d601bd511efd",
@@ -748,6 +838,69 @@
     "companyBadges": []
   },
   {
+    "dedupeKey": "job:4d9fbb65-4e62-4e28-9b42-ca4c9b9295b6",
+    "companyId": "company_e30e56d309468ded6ff9d1fbc80ec130",
+    "company": "GE HealthCare",
+    "companyDomain": "gehealthcare.com",
+    "role": "Sales Enablement GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/1u6bu7d",
+    "location": "Waukesha, WI · Chicago, IL",
+    "locations": [
+      "Waukesha, WI",
+      "Chicago, IL"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Salesforce",
+      "MuleSoft",
+      "Agentic AI",
+      "Apex",
+      "Flow",
+      "Python",
+      "REST Query API",
+      "Agentforce script",
+      "Lightning Actions",
+      "HXL",
+      "Model Context Protocol (MCP)",
+      "JavaScript"
+    ],
+    "posted": "2026-10-07T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:7a447e15-a965-4263-b8c5-ba804db05493",
+    "companyId": "company_4e3c4ab81d1eec416ce38e52ff3ef54d",
+    "company": "Wispr Flow",
+    "companyDomain": "wisprflow.ai",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/pe0831z",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Salesforce",
+      "ClickHouse",
+      "AI"
+    ],
+    "posted": "2026-10-05T19:22:42.455Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$700M valuation",
+      "Series A"
+    ]
+  },
+  {
     "dedupeKey": "job:bf3c826b-9bba-4a70-ada0-027dc25533c1",
     "companyId": "company_952de648ede3b48fed2b6ef2b81051cc",
     "company": "Rho",
@@ -1011,7 +1164,7 @@
     "applyUrl": "https://go.landed.jobs/rhf83o7",
     "location": "🌐 Remote (Worldwide)",
     "locations": [
-      "United State",
+      "United States",
       "NOAM"
     ],
     "remote": "remote",
@@ -1182,45 +1335,6 @@
     "companyBadges": [
       "$6.5B valuation",
       "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:b7a327ce-078d-41bc-89e2-06ecdb9e5b59",
-    "companyId": "company_a4e07925a11111b3cb3498667168fd07",
-    "company": "Oyster®",
-    "companyDomain": "oysterhr.com",
-    "role": "Senior Go-to-Market Engineer",
-    "applyUrl": "https://go.landed.jobs/cjwis8n",
-    "location": "🌐 Remote (Spain, Romania, Hungary +6)",
-    "locations": [
-      "Spain",
-      "Romania",
-      "Hungary",
-      "Portugal",
-      "Slovakia",
-      "Brazil",
-      "Poland",
-      "Colombia",
-      "Mexico"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "error handling",
-      "retries",
-      "idempotency",
-      "monitoring",
-      "alerting",
-      "AI/LLMs",
-      "prompt and context engineering"
-    ],
-    "posted": "2026-09-18T16:08:55.847Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.2B valuation",
-      "Series D"
     ]
   },
   {
@@ -1932,38 +2046,6 @@
     ]
   },
   {
-    "dedupeKey": "job:635d0d56-71ea-42a7-acb5-1be85c1474d6",
-    "companyId": "company_a8ba89e0fdb5a6e1ac1ee6ccce7cb058",
-    "company": "CrowdStrike",
-    "companyDomain": "crowdstrike.com",
-    "role": "Sr. AI Growth Engineer (Remote)",
-    "applyUrl": "https://go.landed.jobs/jucb5xv",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "AI agents",
-      "Python",
-      "TypeScript",
-      "JavaScript",
-      "React",
-      "LLM",
-      "REST APIs",
-      "marketing automation"
-    ],
-    "posted": "2026-08-06T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Cloud Infra 50",
-      "$194B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:11a7c0d2-e72e-48ad-8c15-874e9ba708df",
     "companyId": "company_8be1c7819c978dc3a4338983138af83a",
     "company": "Lovable",
@@ -2022,40 +2104,6 @@
     "companyTier": "B",
     "companyBadges": [
       "Series D"
-    ]
-  },
-  {
-    "dedupeKey": "job:93c6789e-0bc3-4cc8-9b6f-b80b5e719ae6",
-    "companyId": "company_4ccd8fe9d01ea290ac7e531f26f9744c",
-    "company": "Incode",
-    "companyDomain": "incode.com",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/c3xz7hy",
-    "location": "🌐 Remote (Mexico)",
-    "locations": [
-      "Mexico"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "Python",
-      "Node",
-      "MCP servers",
-      "CI/CD",
-      "LLM agents",
-      "Salesforce",
-      "Supabase",
-      "Outreach",
-      "Postgres",
-      "Prompts and agent skills as code"
-    ],
-    "posted": "2026-10-19T19:38:23.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.3B valuation",
-      "Series B"
     ]
   },
   {
