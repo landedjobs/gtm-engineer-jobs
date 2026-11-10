@@ -116,32 +116,6 @@
     ]
   },
   {
-    "dedupeKey": "job:cf264640-6e86-471b-b534-775515ed67b0",
-    "companyId": "company_344f8b9378a0dae5084c72629d895e24",
-    "company": "Forus",
-    "companyDomain": "forus.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/10yl2zb",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "LLMs",
-      "agents"
-    ],
-    "posted": "2026-10-09T18:20:31.985Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$1B valuation",
-      "Series B"
-    ]
-  },
-  {
     "dedupeKey": "job:9f073d09-fe48-4a07-a3d7-eafab8de236c",
     "companyId": "company_ea2e45328983afbcc5286f3c595cd1d3",
     "company": "Braintrust",
@@ -878,6 +852,32 @@
     "posted": "2026-10-13T20:12:09.949Z",
     "companyTier": "C",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:cf264640-6e86-471b-b534-775515ed67b0",
+    "companyId": "company_344f8b9378a0dae5084c72629d895e24",
+    "company": "Forus",
+    "companyDomain": "forus.com",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/10yl2zb",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "LLMs",
+      "agents"
+    ],
+    "posted": "2026-10-09T18:20:31.985Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$1B valuation",
+      "Series B"
+    ]
   },
   {
     "dedupeKey": "job:c22d7ec5-ed2f-4388-b49c-2cc22003c641",
@@ -2027,33 +2027,6 @@
     ]
   },
   {
-    "dedupeKey": "job:2aca3532-c131-4dc5-b287-b2523b13fd28",
-    "companyId": "company_857dcb9a37be0b20388a00be98809aad",
-    "company": "Pennylane",
-    "companyDomain": "pennylane.com",
-    "role": "Growth Engineer (Fullstack, Frontend-Focused)",
-    "applyUrl": "https://go.landed.jobs/etxuw2y",
-    "location": "🌐 Remote (France)",
-    "locations": [
-      "Paris, France"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "js",
-      "Vue",
-      "Ruby"
-    ],
-    "posted": "2026-11-06T15:06:00.009Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$4.3B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:2c0b2cd8-0160-4097-ab3d-77c0df545598",
     "companyId": "company_aa39313ed8c740f5cbeb50105d746200",
     "company": "Multiverse",
@@ -2089,6 +2062,35 @@
     ]
   },
   {
+    "dedupeKey": "job:9074d1bb-c943-46f8-8fed-5f449921c3c5",
+    "companyId": "company_ca5b3298ef26dfc836f22101b5668f01",
+    "company": "DEPT®",
+    "companyDomain": "deptagency.com",
+    "role": "DUH - GTM Engineer for Future Customer Journey",
+    "applyUrl": "https://go.landed.jobs/d3xt6hz",
+    "location": "London, UK",
+    "locations": [
+      "London, UK"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "TypeScript",
+      "JavaScript",
+      "React",
+      "LLM",
+      "RAG",
+      "agentic systems",
+      "observability"
+    ],
+    "posted": "2026-11-09T10:26:08.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
     "dedupeKey": "job:60a4cb28-31bf-495b-973b-b944664a7dd6",
     "companyId": "company_d7c99c22242f8a8d9e4fc0d1d3b1ec3a",
     "company": "fonio.ai",
@@ -2111,26 +2113,6 @@
     "companyBadges": [
       "Seed"
     ]
-  },
-  {
-    "dedupeKey": "job:df6994cf-b82e-4b62-8f37-27dd847c3249",
-    "companyId": "company_cb431de49c05f029718acc5c6b24dd1b",
-    "company": "Private Equity Insights",
-    "companyDomain": "pe-insights.com",
-    "role": "AI Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/9x2e26l",
-    "location": "London, UK",
-    "locations": [
-      "London, UK"
-    ],
-    "remote": "",
-    "region": "world",
-    "family": "ai_machine_learning",
-    "level": "entry",
-    "skills": [],
-    "posted": "2026-10-30T20:46:30.000Z",
-    "companyTier": "U",
-    "companyBadges": []
   },
   {
     "dedupeKey": "job:f271be8c-5b04-4996-9cc9-7d53d2160d79",
@@ -2907,33 +2889,5 @@
       "$3.7B valuation",
       "Series D"
     ]
-  },
-  {
-    "dedupeKey": "job:3c89438b-618d-455d-a3a3-c6c3bb148e48",
-    "companyId": "company_11c270bf345503c0140abfc6bd1056cf",
-    "company": "Team8",
-    "companyDomain": "team8.vc",
-    "role": "Team8 Cyber Stealth Startup-AI GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/2dxvy1h",
-    "location": "Tel Aviv, Israel",
-    "locations": [
-      "Tel Aviv, Israel"
-    ],
-    "remote": "",
-    "region": "world",
-    "family": "ai_machine_learning",
-    "level": "mid",
-    "skills": [
-      "go",
-      "Salesforce",
-      "HubSpot",
-      "Python",
-      "TypeScript",
-      "JavaScript",
-      "SQL"
-    ],
-    "posted": "2026-08-16T07:44:13.000Z",
-    "companyTier": "U",
-    "companyBadges": []
   }
 ]
