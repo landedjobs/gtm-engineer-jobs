@@ -476,6 +476,62 @@
     ]
   },
   {
+    "dedupeKey": "job:2aa83b46-7976-42e2-81ea-9a4b3fd0783f",
+    "companyId": "company_04edfcebe347b7d837351cfba2f06fb1",
+    "company": "Automox",
+    "companyDomain": "automox.com",
+    "role": "Go-To-Market Engineer",
+    "applyUrl": "https://go.landed.jobs/fwee1v8",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "Go",
+      "AWS",
+      "LLMs"
+    ],
+    "posted": "2026-11-10T17:21:50.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:478b501f-9ac6-441f-bc31-0740e84082e9",
+    "companyId": "company_6c0ccb9e62737831bab2cceef4a9c32d",
+    "company": "Shade",
+    "companyDomain": "shade.inc",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/3efulw0",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "typescript",
+      "react",
+      "nextjs",
+      "Python",
+      "SQL",
+      "BigQuery",
+      "LLM"
+    ],
+    "posted": "2026-11-10T01:11:54.293Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
+  },
+  {
     "dedupeKey": "job:932f8fad-5868-4889-98ed-5a47f4d8307c",
     "companyId": "company_6efb9ddecb5b28a61def86caf7f69351",
     "company": "Vendasta",
@@ -1313,35 +1369,6 @@
     ]
   },
   {
-    "dedupeKey": "job:825a2c2c-9f85-4c89-8e44-c5f76953773b",
-    "companyId": "company_2eca400ec9866e172e5e4171e5fbdc9d",
-    "company": "Legalist",
-    "companyDomain": "legalist.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/99idshh",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "go",
-      "outbound prospecting",
-      "Salesforce",
-      "HubSpot",
-      "Python",
-      "JavaScript"
-    ],
-    "posted": "2026-09-21T13:15:26.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S16"
-    ]
-  },
-  {
     "dedupeKey": "job:8f7761b1-0d3f-4106-88cb-fd9867c3abca",
     "companyId": "company_54fa32e30508136031070007f42317d0",
     "company": "SentinelOne",
@@ -1508,39 +1535,6 @@
     "companyBadges": [
       "$2.1B valuation",
       "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:f17bf92c-1a5a-435f-a5b1-b491dd5ccf44",
-    "companyId": "company_5a90bb40002619ea21d11eac2c7dbd88",
-    "company": "Trunk Tools",
-    "companyDomain": "trunktools.com",
-    "role": "Founding GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/oji254i",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "workflow automation",
-      "AI orchestration",
-      "LLMs",
-      "agents",
-      "data architecture",
-      "pipeline",
-      "Clay",
-      "Claude",
-      "Chat",
-      "Zapier"
-    ],
-    "posted": "2026-09-16T18:18:25.948Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series B"
     ]
   },
   {
@@ -2062,33 +2056,27 @@
     ]
   },
   {
-    "dedupeKey": "job:9074d1bb-c943-46f8-8fed-5f449921c3c5",
-    "companyId": "company_ca5b3298ef26dfc836f22101b5668f01",
-    "company": "DEPT®",
-    "companyDomain": "deptagency.com",
-    "role": "DUH - GTM Engineer for Future Customer Journey",
-    "applyUrl": "https://go.landed.jobs/d3xt6hz",
-    "location": "London, UK",
-    "locations": [
-      "London, UK"
-    ],
-    "remote": "hybrid",
-    "region": "world",
-    "family": "ai_machine_learning",
-    "level": "senior",
+    "dedupeKey": "job:e5873885-153b-46de-931e-a27f322fee47",
+    "companyId": "company_cf04482075f5b0b6916c43658658918c",
+    "company": "beehiiv",
+    "companyDomain": "beehiiv.com",
+    "role": "Growth Engineer (Global)",
+    "applyUrl": "https://go.landed.jobs/3frifpw",
+    "location": "🌐 Remote",
+    "locations": [],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "",
     "skills": [
-      "Python",
-      "TypeScript",
-      "JavaScript",
-      "React",
-      "LLM",
-      "RAG",
-      "agentic systems",
-      "observability"
+      "paid acquisition",
+      "Customer.io"
     ],
-    "posted": "2026-11-09T10:26:08.000Z",
-    "companyTier": "U",
-    "companyBadges": []
+    "posted": "2026-11-10T00:00:00.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
+    ]
   },
   {
     "dedupeKey": "job:60a4cb28-31bf-495b-973b-b944664a7dd6",
@@ -2113,131 +2101,6 @@
     "companyBadges": [
       "Seed"
     ]
-  },
-  {
-    "dedupeKey": "job:f271be8c-5b04-4996-9cc9-7d53d2160d79",
-    "companyId": "company_13bf161b538ee0d84abc26208732897e",
-    "company": "Truelogic Software",
-    "companyDomain": "truelogic.io",
-    "role": "Senior Full-Stack Growth Engineer - Marketing & Analytics",
-    "applyUrl": "https://go.landed.jobs/uxaxapd",
-    "location": "🌐 Remote (Uruguay)",
-    "locations": [
-      "Uruguay"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "GraphQL",
-      "observability",
-      "Python",
-      "SQL"
-    ],
-    "posted": "2026-10-27T15:55:16.352Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:357f6416-de4c-4bd1-b3a9-498f2da2073a",
-    "companyId": "company_13bf161b538ee0d84abc26208732897e",
-    "company": "Truelogic Software",
-    "companyDomain": "truelogic.io",
-    "role": "Senior Full-Stack Growth Engineer - Marketing & Analytics",
-    "applyUrl": "https://go.landed.jobs/wowel93",
-    "location": "🌐 Remote (Brazil)",
-    "locations": [
-      "São Paulo, Brazil"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "GraphQL",
-      "observability",
-      "Python",
-      "SQL"
-    ],
-    "posted": "2026-10-27T15:54:54.189Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:8383db07-79ea-42eb-a912-1809fd6d7ca4",
-    "companyId": "company_13bf161b538ee0d84abc26208732897e",
-    "company": "Truelogic Software",
-    "companyDomain": "truelogic.io",
-    "role": "Senior Full-Stack Growth Engineer - Marketing & Analytics",
-    "applyUrl": "https://go.landed.jobs/vyrf4hv",
-    "location": "🌐 Remote (Dominican Republic)",
-    "locations": [
-      "Santo Domingo, Dominican Republic"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "GraphQL",
-      "observability",
-      "Python",
-      "SQL"
-    ],
-    "posted": "2026-10-27T15:54:37.207Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:9539a3e4-0921-40a8-a144-82096bb484df",
-    "companyId": "company_13bf161b538ee0d84abc26208732897e",
-    "company": "Truelogic Software",
-    "companyDomain": "truelogic.io",
-    "role": "Senior Full-Stack Growth Engineer - Marketing & Analytics",
-    "applyUrl": "https://go.landed.jobs/1eugco7",
-    "location": "🌐 Remote (Peru)",
-    "locations": [
-      "Peru"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "GraphQL",
-      "observability",
-      "Python",
-      "SQL"
-    ],
-    "posted": "2026-10-27T15:54:19.373Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:f1fe5321-4ccc-4c77-85e1-e10f993138bd",
-    "companyId": "company_13bf161b538ee0d84abc26208732897e",
-    "company": "Truelogic Software",
-    "companyDomain": "truelogic.io",
-    "role": "Senior Full-Stack Growth Engineer - Marketing & Analytics",
-    "applyUrl": "https://go.landed.jobs/bv1ou3d",
-    "location": "🌐 Remote (Panama)",
-    "locations": [
-      "Panama"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "GraphQL",
-      "observability",
-      "Python",
-      "SQL"
-    ],
-    "posted": "2026-10-27T15:53:59.905Z",
-    "companyTier": "U",
-    "companyBadges": []
   },
   {
     "dedupeKey": "job:c45f80fb-550f-4c27-a119-6929f0c71c2a",
@@ -2692,34 +2555,6 @@
     "companyTier": "B",
     "companyBadges": [
       "YC F25",
-      "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:fa6d7970-41cc-4362-ab61-ee31ab7ffde4",
-    "companyId": "company_638825d08275748bcdf66784d3fb2ce1",
-    "company": "Bloom",
-    "companyDomain": "bloom.diy",
-    "role": "Founding Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/g5oovzz",
-    "location": "Zürich, Switzerland",
-    "locations": [
-      "Zürich, Switzerland"
-    ],
-    "remote": "",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "connecting APIs",
-      "automating workflows",
-      "building internal tools",
-      "no-code/low-code frameworks"
-    ],
-    "posted": "2026-09-18T06:02:19.778Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC P25",
       "Seed"
     ]
   },
