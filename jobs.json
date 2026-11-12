@@ -87,35 +87,6 @@
     ]
   },
   {
-    "dedupeKey": "job:669f3a78-7de2-428d-973e-db99714dab26",
-    "companyId": "company_c06edf0d69882798c8f632f10609484d",
-    "company": "Cresta",
-    "companyDomain": "cresta.com",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/4wdy1f3",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Webflow",
-      "large language models (LLMs)",
-      "prompt engineering",
-      "Technical SEO",
-      "AEO"
-    ],
-    "posted": "2026-10-12T17:20:44.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp EdTech 50",
-      "$1.6B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:9f073d09-fe48-4a07-a3d7-eafab8de236c",
     "companyId": "company_ea2e45328983afbcc5286f3c595cd1d3",
     "company": "Braintrust",
@@ -474,6 +445,39 @@
     "companyBadges": [
       "YC S22"
     ]
+  },
+  {
+    "dedupeKey": "job:84fea72e-b553-4efc-9e41-e2bfbcd34475",
+    "companyId": "company_c2d798e446f32fab6c4ce023c2d8a941",
+    "company": "Pragmatike",
+    "companyDomain": "pragmatike.com",
+    "role": "GTM Engineer (Pacific Time)",
+    "applyUrl": "https://go.landed.jobs/eydyckw",
+    "location": "🌐 Remote (US, Colombia, Canada +2)",
+    "locations": [
+      "US",
+      "Colombia",
+      "Sacramento, CA",
+      "Los Angeles, CA",
+      "San Francisco, CA",
+      "Canada",
+      "Costa Rica",
+      "Mexico"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "AI agents",
+      "Python",
+      "TypeScript",
+      "SQL",
+      "LLMs"
+    ],
+    "posted": "2026-11-11T15:22:35.093Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
     "dedupeKey": "job:2aa83b46-7976-42e2-81ea-9a4b3fd0783f",
@@ -908,6 +912,35 @@
     "posted": "2026-10-13T20:12:09.949Z",
     "companyTier": "C",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:669f3a78-7de2-428d-973e-db99714dab26",
+    "companyId": "company_c06edf0d69882798c8f632f10609484d",
+    "company": "Cresta",
+    "companyDomain": "cresta.com",
+    "role": "Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/4wdy1f3",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Webflow",
+      "large language models (LLMs)",
+      "prompt engineering",
+      "Technical SEO",
+      "AEO"
+    ],
+    "posted": "2026-10-12T17:20:44.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp EdTech 50",
+      "$1.6B valuation"
+    ]
   },
   {
     "dedupeKey": "job:cf264640-6e86-471b-b534-775515ed67b0",
@@ -2054,6 +2087,66 @@
     "companyBadges": [
       "Series D"
     ]
+  },
+  {
+    "dedupeKey": "job:9f687ec3-96b3-47f3-b141-cd7e76333b77",
+    "companyId": "company_a9cfd3dc0d4ce5cf722ed5ed446587d1",
+    "company": "Planhat",
+    "companyDomain": "planhat.com",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/ibfhikz",
+    "location": "London, UK",
+    "locations": [
+      "London, UK"
+    ],
+    "remote": "",
+    "region": "world",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "observability",
+      "LLM",
+      "TypeScript",
+      "JavaScript",
+      "Salesforce",
+      "HubSpot"
+    ],
+    "posted": "2026-11-11T18:21:21.558Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "$490M valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:62a285d5-6468-48ac-a8c0-8f035a360fbe",
+    "companyId": "company_c2d798e446f32fab6c4ce023c2d8a941",
+    "company": "Pragmatike",
+    "companyDomain": "pragmatike.com",
+    "role": "GTM Engineer (Singapore Time)",
+    "applyUrl": "https://go.landed.jobs/r5auoa0",
+    "location": "🌐 Remote (Singapore)",
+    "locations": [
+      "Singapore",
+      "Philippines",
+      "Indonesia",
+      "Australia",
+      "Thailand",
+      "Armenia"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "AI agents",
+      "Python",
+      "TypeScript",
+      "SQL",
+      "LLMs"
+    ],
+    "posted": "2026-11-11T15:23:23.104Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
     "dedupeKey": "job:e5873885-153b-46de-931e-a27f322fee47",
