@@ -61,29 +61,65 @@
     ]
   },
   {
-    "dedupeKey": "job:d303cf44-3be5-4a7d-8d19-11daccfba2d9",
-    "companyId": "company_9baad27eab20fb984b38823e527a6024",
-    "company": "Vercel",
-    "companyDomain": "vercel.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/3aphm9p",
-    "location": "🌐 Remote (US)",
+    "dedupeKey": "job:578039d8-ddba-417f-b447-fdddadaa298c",
+    "companyId": "company_203dd412c0f10c21e81c3aca3e7b791a",
+    "company": "1Password",
+    "companyDomain": "1password.com",
+    "role": "Staff GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/hvwo6gp",
+    "location": "🌐 Remote (US, Canada)",
     "locations": [
-      "San Francisco, CA"
+      "US",
+      "Canada"
     ],
     "remote": "remote",
     "region": "remote",
     "family": "software_engineering",
-    "level": "mid",
+    "level": "staff",
     "skills": [
-      "AI models and APIs (e.g., OpenAI, v0 API, Anthropic)",
-      "Vercel AI Cloud"
+      "Python",
+      "Structured Query Language (SQL)",
+      "Application Programming Interface (API) integrations",
+      "automation across Software as a Service (SaaS) tools",
+      "AI to business workflows",
+      "Clay",
+      "Apollo",
+      "ZoomInfo",
+      "Clearbit",
+      "6sense",
+      "Demandbase",
+      "LeadIQ"
     ],
-    "posted": "2026-10-15T23:13:47.000Z",
+    "posted": "2026-10-16T19:22:45.325Z",
     "companyTier": "A",
     "companyBadges": [
-      "TrueUp Open Source 50",
-      "$9.3B valuation"
+      "TrueUp Security 50",
+      "$6.8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:a4709641-7ec7-4af0-83c3-c3e0f6cc9c00",
+    "companyId": "company_9269ce0462b0518683d37ee03cfd4189",
+    "company": "SPS Commerce",
+    "companyDomain": "spscommerce.com",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/vc28xgx",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "go"
+    ],
+    "posted": "2026-11-12T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$2.6B valuation",
+      "Public"
     ]
   },
   {
@@ -204,33 +240,6 @@
     "companyTier": "B",
     "companyBadges": [
       "YC S24",
-      "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:89e3ad7e-8fd2-4dd0-8540-1f2b1417673b",
-    "companyId": "company_bdb7ad915ac3f5005cfbb0757d0d5d5d",
-    "company": "Nango",
-    "companyDomain": "nango.dev",
-    "role": "GTM Engineer (Founding)",
-    "applyUrl": "https://go.landed.jobs/siijq8l",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "TypeScript",
-      "APIs",
-      "data"
-    ],
-    "posted": "2026-10-30T22:35:14.522Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC W23",
       "Seed"
     ]
   },
@@ -444,6 +453,34 @@
     "companyTier": "B",
     "companyBadges": [
       "YC S22"
+    ]
+  },
+  {
+    "dedupeKey": "job:67e7f53c-3bfe-4bb3-86a7-28ea570b1ccc",
+    "companyId": "company_1d2960c53aaa9392f71137968b88002f",
+    "company": "Dust",
+    "companyDomain": "dust.tt",
+    "role": "Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/2wyzj7a",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "HubSpot",
+      "go",
+      "Snowflake",
+      "TypeScript",
+      "React"
+    ],
+    "posted": "2026-11-13T05:45:52.777Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
     ]
   },
   {
@@ -863,6 +900,32 @@
     "posted": "2026-10-16T18:17:07.159Z",
     "companyTier": "C",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:d303cf44-3be5-4a7d-8d19-11daccfba2d9",
+    "companyId": "company_9baad27eab20fb984b38823e527a6024",
+    "company": "Vercel",
+    "companyDomain": "vercel.com",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/3aphm9p",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "AI models and APIs (e.g., OpenAI, v0 API, Anthropic)",
+      "Vercel AI Cloud"
+    ],
+    "posted": "2026-10-15T23:13:47.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Open Source 50",
+      "$9.3B valuation"
+    ]
   },
   {
     "dedupeKey": "job:2ecdd29b-3042-4afa-bf5f-ee356f189be1",
@@ -1900,36 +1963,6 @@
     ]
   },
   {
-    "dedupeKey": "job:6541591f-e268-4eb9-a368-9965598c2d4a",
-    "companyId": "company_2abdff4b68862edf6bd461c14b4528f9",
-    "company": "Decagon",
-    "companyDomain": "decagon.ai",
-    "role": "Growth Engineer, Web & Growth Products",
-    "applyUrl": "https://go.landed.jobs/qj9plei",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "software engineering",
-      "AI/LLM-powered tooling",
-      "Clay",
-      "Webflow",
-      "Gumloop",
-      "Dust"
-    ],
-    "posted": "2026-08-27T17:25:09.672Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$4.5B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:a6c3ee54-a7b2-4d6d-a710-4cd0674dc6aa",
     "companyId": "company_9abc8a52019d5d7b5f0e86795404f622",
     "company": "Monk",
@@ -2051,6 +2084,29 @@
     "companyBadges": [
       "TrueUp ClimateTech 50",
       "$1B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:d5c7d223-075d-40d8-bdd6-291841babf35",
+    "companyId": "company_7b1f9eb68f006c2eadfd756e36416305",
+    "company": "Voodoo",
+    "companyDomain": "voodoo.io",
+    "role": "AI Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/c7eby9i",
+    "location": "Paris, France",
+    "locations": [
+      "Paris, France"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [],
+    "posted": "2026-11-14T17:30:31.324Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Digital Media 50",
+      "$2.3B valuation"
     ]
   },
   {
@@ -2735,28 +2791,6 @@
     "companyTier": "B",
     "companyBadges": [
       "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:79e48dc0-2ced-4cb2-b3a7-23c417d961ae",
-    "companyId": "company_f216c7aac4c326ed66f0aa76aaa09711",
-    "company": "Jack & Jill",
-    "companyDomain": "jackandjill.ai",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/taew3i5",
-    "location": "London, UK",
-    "locations": [
-      "London, UK"
-    ],
-    "remote": "",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [],
-    "posted": "2026-09-03T21:35:05.572Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Seed"
     ]
   },
   {
