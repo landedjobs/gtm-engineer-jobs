@@ -61,43 +61,6 @@
     ]
   },
   {
-    "dedupeKey": "job:578039d8-ddba-417f-b447-fdddadaa298c",
-    "companyId": "company_203dd412c0f10c21e81c3aca3e7b791a",
-    "company": "1Password",
-    "companyDomain": "1password.com",
-    "role": "Staff GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/hvwo6gp",
-    "location": "🌐 Remote (US, Canada)",
-    "locations": [
-      "US",
-      "Canada"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "staff",
-    "skills": [
-      "Python",
-      "Structured Query Language (SQL)",
-      "Application Programming Interface (API) integrations",
-      "automation across Software as a Service (SaaS) tools",
-      "AI to business workflows",
-      "Clay",
-      "Apollo",
-      "ZoomInfo",
-      "Clearbit",
-      "6sense",
-      "Demandbase",
-      "LeadIQ"
-    ],
-    "posted": "2026-10-16T19:22:45.325Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Security 50",
-      "$6.8B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:a4709641-7ec7-4af0-83c3-c3e0f6cc9c00",
     "companyId": "company_9269ce0462b0518683d37ee03cfd4189",
     "company": "SPS Commerce",
@@ -268,68 +231,6 @@
     "companyBadges": [
       "$1.1B valuation",
       "Series D"
-    ]
-  },
-  {
-    "dedupeKey": "job:139f02af-fd85-467f-af3b-fcde46cb7498",
-    "companyId": "company_1ddbc07f5798db9560890bb37766e1c9",
-    "company": "Circleback",
-    "companyDomain": "circleback.ai",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/00a8npn",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "React",
-      "Next.js",
-      "Prisma",
-      "SWR",
-      "Electron",
-      "Swift",
-      "React Native"
-    ],
-    "posted": "2026-10-28T00:44:28.274Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC W24",
-      "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:7b61a0dc-b7b7-403a-9cc0-69f8fa34cdcc",
-    "companyId": "company_1ddbc07f5798db9560890bb37766e1c9",
-    "company": "Circleback",
-    "companyDomain": "circleback.ai",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/igy03ut",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "React",
-      "Next.js",
-      "Prisma",
-      "SWR",
-      "Electron",
-      "Swift",
-      "React Native"
-    ],
-    "posted": "2026-10-27T21:32:45.880Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC W24",
-      "Seed"
     ]
   },
   {
@@ -868,6 +769,43 @@
     "posted": "2026-10-21T00:00:00.000Z",
     "companyTier": "U",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:578039d8-ddba-417f-b447-fdddadaa298c",
+    "companyId": "company_203dd412c0f10c21e81c3aca3e7b791a",
+    "company": "1Password",
+    "companyDomain": "1password.com",
+    "role": "Staff GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/hvwo6gp",
+    "location": "🌐 Remote (US, Canada)",
+    "locations": [
+      "US",
+      "Canada"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [
+      "Python",
+      "Structured Query Language (SQL)",
+      "Application Programming Interface (API) integrations",
+      "automation across Software as a Service (SaaS) tools",
+      "AI to business workflows",
+      "Clay",
+      "Apollo",
+      "ZoomInfo",
+      "Clearbit",
+      "6sense",
+      "Demandbase",
+      "LeadIQ"
+    ],
+    "posted": "2026-10-16T19:22:45.325Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Security 50",
+      "$6.8B valuation"
+    ]
   },
   {
     "dedupeKey": "job:6d9711fe-e4aa-4b29-9c30-e9b462159bcd",
@@ -2047,43 +1985,6 @@
     "companyTier": "C",
     "companyBadges": [
       "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:94b07b04-b47d-4e3d-b734-56e29dd34c61",
-    "companyId": "company_f270774e3c8e52731c66f2bbe5686608",
-    "company": "Watershed",
-    "companyDomain": "watershed.com",
-    "role": "GTM engineer",
-    "applyUrl": "https://go.landed.jobs/uavyh7t",
-    "location": "San Francisco, CA · New York City, NY",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "AI",
-      "agents",
-      "workflows",
-      "deployment pipeline",
-      "branching and sandbox management",
-      "testing standards",
-      "backups",
-      "AI dev environment",
-      "Claude Code",
-      "Cursor",
-      "Salesforce",
-      "Gearset"
-    ],
-    "posted": "2026-08-17T18:03:21.097Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp ClimateTech 50",
-      "$1B valuation"
     ]
   },
   {
