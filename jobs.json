@@ -324,61 +324,24 @@
     ]
   },
   {
-    "dedupeKey": "job:e824b93b-0517-447c-9f04-9546f96609f1",
-    "companyId": "company_6e422a5bac0d84c608810bb2b69343b4",
-    "company": "Pump.co",
-    "companyDomain": "pump.co",
+    "dedupeKey": "job:1a6d85f0-f20c-4b5f-895c-41af31dee6b7",
+    "companyId": "company_79db3ddec1987d6da9f246a0720f50e6",
+    "company": "Venn",
+    "companyDomain": "venn.city",
     "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/cuj1rd3",
-    "location": "San Francisco, CA",
+    "applyUrl": "https://go.landed.jobs/oiqj0dh",
+    "location": "🌐 Remote (US)",
     "locations": [
-      "San Francisco, CA"
+      "US"
     ],
-    "remote": "",
-    "region": "us",
+    "remote": "remote",
+    "region": "remote",
     "family": "software_engineering",
-    "level": "mid",
+    "level": "",
     "skills": [
-      "Clay",
-      "Apollo",
-      "HubSpot",
-      "Python",
-      "JavaScript",
-      "APIs",
-      "webhooks",
-      "LLMs",
-      "AI agents",
-      "SQL"
+      "AI agents"
     ],
-    "posted": "2026-10-19T20:23:24.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S22"
-    ]
-  },
-  {
-    "dedupeKey": "job:67e7f53c-3bfe-4bb3-86a7-28ea570b1ccc",
-    "companyId": "company_1d2960c53aaa9392f71137968b88002f",
-    "company": "Dust",
-    "companyDomain": "dust.tt",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/2wyzj7a",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "HubSpot",
-      "go",
-      "Snowflake",
-      "TypeScript",
-      "React"
-    ],
-    "posted": "2026-11-13T05:45:52.777Z",
+    "posted": "2026-11-17T20:43:20.000Z",
     "companyTier": "C",
     "companyBadges": [
       "Series B"
@@ -448,7 +411,7 @@
     "companyId": "company_6c0ccb9e62737831bab2cceef4a9c32d",
     "company": "Shade",
     "companyDomain": "shade.inc",
-    "role": "GTM Engineer",
+    "role": "Founding GTM Engineer",
     "applyUrl": "https://go.landed.jobs/3efulw0",
     "location": "New York City, NY",
     "locations": [
@@ -769,6 +732,39 @@
     "posted": "2026-10-21T00:00:00.000Z",
     "companyTier": "U",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:e824b93b-0517-447c-9f04-9546f96609f1",
+    "companyId": "company_6e422a5bac0d84c608810bb2b69343b4",
+    "company": "Pump.co",
+    "companyDomain": "pump.co",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/cuj1rd3",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "Clay",
+      "Apollo",
+      "HubSpot",
+      "Python",
+      "JavaScript",
+      "APIs",
+      "webhooks",
+      "LLMs",
+      "AI agents",
+      "SQL"
+    ],
+    "posted": "2026-10-19T20:23:24.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC S22"
+    ]
   },
   {
     "dedupeKey": "job:578039d8-ddba-417f-b447-fdddadaa298c",
@@ -1312,33 +1308,6 @@
       "YC W20",
       "Series A"
     ]
-  },
-  {
-    "dedupeKey": "job:ec688c17-daf7-411c-9eb3-92eb568cdef7",
-    "companyId": "company_9e0503b377c9d370edf6701516b27252",
-    "company": "Zone & Co",
-    "companyDomain": "zoneandco.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/rhf83o7",
-    "location": "🌐 Remote (Worldwide)",
-    "locations": [
-      "United States",
-      "NOAM"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "Salesforce",
-      "Tableau",
-      "Looker",
-      "LLMs",
-      "BI tools"
-    ],
-    "posted": "2026-09-25T20:22:07.000Z",
-    "companyTier": "C",
-    "companyBadges": []
   },
   {
     "dedupeKey": "job:791ccd6c-2698-4707-b36d-f273410c9c2e",
@@ -2129,30 +2098,6 @@
     ]
   },
   {
-    "dedupeKey": "job:60a4cb28-31bf-495b-973b-b944664a7dd6",
-    "companyId": "company_d7c99c22242f8a8d9e4fc0d1d3b1ec3a",
-    "company": "fonio.ai",
-    "companyDomain": "fonio.ai",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/u48qced",
-    "location": "🌐 Remote (Austria)",
-    "locations": [
-      "Remote"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "AI agents"
-    ],
-    "posted": "2026-11-06T17:01:55.134Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Seed"
-    ]
-  },
-  {
     "dedupeKey": "job:c45f80fb-550f-4c27-a119-6929f0c71c2a",
     "companyId": "company_be981feee1eed11288f7bd22e9c51cb5",
     "company": "viktor.com",
@@ -2721,36 +2666,6 @@
     "companyBadges": [
       "$2.1B valuation",
       "Series B"
-    ]
-  },
-  {
-    "dedupeKey": "job:83b7c811-388b-41b0-bdd8-d78807874ad2",
-    "companyId": "company_0a8ab8260dd09483a3c8d681a37bfa78",
-    "company": "Papaya Global",
-    "companyDomain": "papayaglobal.com",
-    "role": "AI GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/l842fbg",
-    "location": "Barcelona, Spain",
-    "locations": [
-      "Barcelona, Spain"
-    ],
-    "remote": "hybrid",
-    "region": "world",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "LLM",
-      "observability",
-      "AI agents",
-      "REST APIs",
-      "Python",
-      "JavaScript"
-    ],
-    "posted": "2026-08-20T10:59:08.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$3.7B valuation",
-      "Series D"
     ]
   }
 ]
