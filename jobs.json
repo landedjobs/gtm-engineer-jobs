@@ -264,37 +264,30 @@
     ]
   },
   {
-    "dedupeKey": "job:a82baca3-da52-40ba-8593-51ac47c35574",
-    "companyId": "company_835561dbc345972632ad19760d0c6f03",
-    "company": "Ello",
-    "companyDomain": "ello.com",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/3e1kzwn",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:a582a3ae-f30a-41d0-a4b0-7d3ae927bb06",
+    "companyId": "company_4ec3cd2a40e9a438faf04a6723873fc9",
+    "company": "Coram AI",
+    "companyDomain": "coram.ai",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/a8dr4pn",
+    "location": "Sunnyvale, CA",
     "locations": [
-      "San Francisco, CA"
+      "Sunnyvale, CA"
     ],
     "remote": "",
     "region": "us",
     "family": "software_engineering",
-    "level": "senior",
+    "level": "mid",
     "skills": [
-      "Flutter",
-      "React",
-      "Python",
-      "SQL",
-      "Mixpanel",
-      "Amplitude",
-      "Segment",
-      "Stripe",
-      "Twilio",
-      "SendGrid"
+      "go",
+      "AI agents",
+      "HubSpot",
+      "Salesforce"
     ],
-    "posted": "2026-10-27T00:43:34.868Z",
-    "companyTier": "B",
+    "posted": "2026-11-20T16:29:47.027Z",
+    "companyTier": "C",
     "companyBadges": [
-      "YC W20",
-      "Series A"
+      "Series B"
     ]
   },
   {
@@ -1367,33 +1360,6 @@
     ]
   },
   {
-    "dedupeKey": "job:e52c14cf-ff38-40ed-974a-443d41a42609",
-    "companyId": "company_3858065f9699d14a4d37610612bd2517",
-    "company": "Engine",
-    "companyDomain": "engine.com",
-    "role": "Senior Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/a7y0ajr",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Snowflake",
-      "AI",
-      "LLM-based tools"
-    ],
-    "posted": "2026-09-16T20:56:10.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2.1B valuation",
-      "Series C"
-    ]
-  },
-  {
     "dedupeKey": "job:96cc8015-d032-4d6a-8a64-c972007b28a8",
     "companyId": "company_80fe434ab57dce0ecab0595bb93c895f",
     "company": "Navan",
@@ -1747,33 +1713,6 @@
     ]
   },
   {
-    "dedupeKey": "job:f1745907-ca98-4394-88ef-0a5efa5551e7",
-    "companyId": "company_e1bd0e4c06e27a0af9abe0a3e9159d60",
-    "company": "Greptile",
-    "companyDomain": "greptile.com",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/lbnx5sx",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "analytics and attribution framework",
-      "event instrumentation",
-      "modern web stacks",
-      "analytics tooling"
-    ],
-    "posted": "2026-08-24T21:10:54.201Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
-    ]
-  },
-  {
     "dedupeKey": "job:d5c7d223-075d-40d8-bdd6-291841babf35",
     "companyId": "company_7b1f9eb68f006c2eadfd756e36416305",
     "company": "Voodoo",
@@ -1825,6 +1764,79 @@
     "companyBadges": [
       "$1B valuation",
       "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:22d5a448-b7f7-44dd-bce3-a1a681331e4d",
+    "companyId": "company_27e4224e0d3cab68e07d8f61fa117834",
+    "company": "Ionos",
+    "companyDomain": "ionos.com",
+    "role": "AI GTM Engineer (f/m/d) B2B Sales",
+    "applyUrl": "https://go.landed.jobs/1eobwpd",
+    "location": "Otto-Ostrowski-Straße 7, 10249 Berlin · IONOS SE",
+    "locations": [
+      "Otto-Ostrowski-Straße 7, 10249 Berlin",
+      "IONOS SE"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "RAG",
+      "prompting",
+      "Python",
+      "TypeScript",
+      "SQL"
+    ],
+    "posted": "2026-11-20T17:40:56.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:ebdf2212-e473-490f-98eb-e5597ec91bc6",
+    "companyId": "company_b9ca8900242c48fce2bfb1a88f0bdb04",
+    "company": "Bunch",
+    "companyDomain": "bunch.live",
+    "role": "GTM Engineer",
+    "applyUrl": "https://go.landed.jobs/567m6d9",
+    "location": "London, UK",
+    "locations": [
+      "London, UK"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "developer_relations_solutions",
+    "level": "",
+    "skills": [],
+    "posted": "2026-11-20T16:43:26.505Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
+  },
+  {
+    "dedupeKey": "job:d86d67c9-ce18-4ead-bc27-32f1a50672a7",
+    "companyId": "company_b9ca8900242c48fce2bfb1a88f0bdb04",
+    "company": "Bunch",
+    "companyDomain": "bunch.live",
+    "role": "GTM Engineer (f/m/d)",
+    "applyUrl": "https://go.landed.jobs/p56ms3c",
+    "location": "Berlin, Germany",
+    "locations": [
+      "Berlin, Germany"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "developer_relations_solutions",
+    "level": "",
+    "skills": [],
+    "posted": "2026-11-20T16:41:43.097Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
     ]
   },
   {
@@ -2323,41 +2335,6 @@
     ]
   },
   {
-    "dedupeKey": "job:25013ee4-e1f1-4569-8f94-c9d71347e2a5",
-    "companyId": "company_34c36f67a164e623551b6d947b91c4ec",
-    "company": "LumiQ",
-    "companyDomain": "lumiqlearn.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/v7acdyn",
-    "location": "Toronto, Canada",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "remote": "hybrid",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Python",
-      "SQL",
-      "API’s",
-      "Webhooks",
-      "Clay",
-      "Zapier",
-      "n8n",
-      "Claude Code",
-      "Salesforce/CRM",
-      "Snowflake",
-      "Databases",
-      "Business Intelligence Tools"
-    ],
-    "posted": "2026-09-23T21:40:13.307Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
-    ]
-  },
-  {
     "dedupeKey": "job:91bba26b-4bfb-4634-b731-014e82abbe30",
     "companyId": "company_b30291c40271716ed0def1ca4ceb4c9d",
     "company": "Coverage Cat",
@@ -2485,35 +2462,6 @@
     "companyTier": "B",
     "companyBadges": [
       "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:a8054439-0359-4022-bd87-0f4b7f53fd8d",
-    "companyId": "company_c6db3680fe563d758c8f6b7be1ecc617",
-    "company": "Ably",
-    "companyDomain": "ably.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/shh5btd",
-    "location": "🌐 Remote (UK)",
-    "locations": [
-      "London, UK"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "HubSpot",
-      "n8n",
-      "Zapier",
-      "Make",
-      "Salesforce"
-    ],
-    "posted": "2026-08-24T07:55:29.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2.1B valuation",
-      "Series B"
     ]
   }
 ]
