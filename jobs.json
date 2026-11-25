@@ -665,39 +665,6 @@
     ]
   },
   {
-    "dedupeKey": "job:50df718c-b1b5-4e9e-b238-eee62650cd27",
-    "companyId": "company_639fed44829947b1afad3ff671e216be",
-    "company": "BitSight",
-    "companyDomain": "bitsight.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/tn73n6c",
-    "location": "Boston, MA",
-    "locations": [
-      "Boston, MA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "SQL",
-      "Python",
-      "JavaScript/TypeScript",
-      "API and webhook",
-      "Salesforce",
-      "Clay",
-      "Workato",
-      "n8n",
-      "Zapier",
-      "Snowflake",
-      "Looker",
-      "LLM-powered or agentic workflows"
-    ],
-    "posted": "2026-10-21T00:00:00.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
     "dedupeKey": "job:e824b93b-0517-447c-9f04-9546f96609f1",
     "companyId": "company_6e422a5bac0d84c608810bb2b69343b4",
     "company": "Pump.co",
@@ -1185,36 +1152,6 @@
     "companyTier": "C",
     "companyBadges": [
       "Series B"
-    ]
-  },
-  {
-    "dedupeKey": "job:3f43023f-b1eb-44ec-a2cc-3748820330aa",
-    "companyId": "company_82bcf9f7dd53988a1cd71b62cbafa06f",
-    "company": "ClickHouse",
-    "companyDomain": "clickhouse.com",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/mb7wnb7",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "TypeScript",
-      "Node",
-      "React",
-      "LLMs",
-      "RESTful APIs",
-      "A/B testing"
-    ],
-    "posted": "2026-09-21T15:31:21.468Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$15B valuation"
     ]
   },
   {
@@ -1920,32 +1857,6 @@
     "companyTier": "C",
     "companyBadges": [
       "Series B"
-    ]
-  },
-  {
-    "dedupeKey": "job:c45f80fb-550f-4c27-a119-6929f0c71c2a",
-    "companyId": "company_be981feee1eed11288f7bd22e9c51cb5",
-    "company": "viktor.com",
-    "companyDomain": "getviktor.com",
-    "role": "Growth Engineer",
-    "applyUrl": "https://go.landed.jobs/2i5xcb5",
-    "location": "🌐 Remote (Poland, Germany)",
-    "locations": [
-      "Warsaw, Poland",
-      "Munich, Germany"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "A/B tests",
-      "agentic coding"
-    ],
-    "posted": "2026-10-26T16:21:15.125Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
     ]
   },
   {
