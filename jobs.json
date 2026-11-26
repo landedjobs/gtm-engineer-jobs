@@ -1626,30 +1626,6 @@
     ]
   },
   {
-    "dedupeKey": "job:a6c3ee54-a7b2-4d6d-a710-4cd0674dc6aa",
-    "companyId": "company_9abc8a52019d5d7b5f0e86795404f622",
-    "company": "Monk",
-    "companyDomain": "monk.com",
-    "role": "GTM Engineer",
-    "applyUrl": "https://go.landed.jobs/nwyib3f",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "go"
-    ],
-    "posted": "2026-08-27T14:22:43.674Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
-    ]
-  },
-  {
     "dedupeKey": "job:d5c7d223-075d-40d8-bdd6-291841babf35",
     "companyId": "company_7b1f9eb68f006c2eadfd756e36416305",
     "company": "Voodoo",
@@ -1701,6 +1677,32 @@
     "companyBadges": [
       "$1B valuation",
       "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:d8b64519-0a8f-471f-a625-67ede2f33daa",
+    "companyId": "company_1a0704e56339feb17f79aae596f1bd39",
+    "company": "Cosuno",
+    "companyDomain": "cosuno.de",
+    "role": "GTM & Growth Engineer",
+    "applyUrl": "https://go.landed.jobs/q9dr0n6",
+    "location": "Berlin, Germany",
+    "locations": [
+      "Berlin, Germany"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "LLM",
+      "prompting",
+      "agentic systems"
+    ],
+    "posted": "2026-11-24T16:31:57.512Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
     ]
   },
   {
